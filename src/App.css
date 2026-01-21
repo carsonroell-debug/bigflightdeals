@@ -1,0 +1,322 @@
+/* Unified Brand System - BigFlightDeals */
+.bfd-app {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 32px 20px;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: var(--bg-primary, #0E1116);
+  color: var(--text-primary, #E6EAF0);
+}
+
+.bfd-header {
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+/* Headings - Inter SemiBold */
+.bfd-header h1 {
+  margin: 0;
+  font-size: 48px;
+  line-height: 1.15;
+  font-weight: 600; /* SemiBold per brand */
+  letter-spacing: -0.02em;
+  color: var(--text-primary, #E6EAF0);
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.subtitle {
+  margin-top: 12px;
+  font-size: 20px;
+  font-weight: 400; /* Regular */
+  color: var(--text-secondary, #9AA4B2);
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.header-description {
+  margin-top: 16px;
+  font-size: 16px;
+  font-weight: 400; /* Regular */
+  color: var(--text-secondary, #9AA4B2);
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.bfd-main {
+  display: grid;
+  gap: 32px;
+}
+
+.bfd-results {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.bfd-results h2 {
+  margin: 0 0 20px 0;
+  font-size: 24px;
+  font-weight: 600; /* SemiBold */
+  color: var(--text-primary, #E6EAF0);
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* Secondary text for counts and empty states */
+.text-secondary {
+  color: var(--text-secondary, #9AA4B2);
+  font-weight: 400; /* Regular */
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.text-secondary-margin {
+  color: var(--text-secondary, #9AA4B2);
+  font-weight: 400; /* Regular */
+  font-family: 'Inter', system-ui, sans-serif;
+  margin-bottom: 20px;
+}
+
+.search-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr auto;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.search-row input {
+  padding: 12px 12px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.1);
+  background: rgba(255,255,255,0.03);
+  color: var(--text-primary, #E6EAF0);
+  font-family: 'Inter', system-ui, sans-serif;
+  font-weight: 400;
+}
+
+.search-row button {
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.1);
+  background: rgba(255,255,255,0.05);
+  color: var(--text-primary, #E6EAF0);
+  font-family: 'Inter', system-ui, sans-serif;
+  font-weight: 500; /* Medium for UI labels */
+  cursor: pointer;
+}
+
+/* Deal cards - dark background, subtle borders, minimal */
+.deal-card {
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 12px;
+  padding: 20px;
+  background: rgba(255,255,255,0.02);
+  /* No hover transitions - calm, operator-grade */
+}
+
+.deal-route {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+  font-size: 18px;
+  font-weight: 500; /* Medium for UI labels */
+  color: var(--text-primary, #E6EAF0);
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.deal-origin,
+.deal-destination {
+  font-weight: 600; /* SemiBold */
+  color: var(--text-primary, #E6EAF0);
+}
+
+.deal-arrow {
+  color: var(--text-secondary, #9AA4B2);
+  font-weight: 400;
+}
+
+.deal-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.deal-price {
+  display: flex;
+  align-items: baseline;
+  gap: 4px;
+}
+
+/* Price - accent color sparingly */
+.price-amount {
+  font-size: 28px;
+  font-weight: 600; /* SemiBold */
+  line-height: 1;
+  color: var(--accent, #3AAEFF); /* Accent for prices */
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.price-currency {
+  font-size: 16px;
+  font-weight: 500; /* Medium */
+  color: var(--text-secondary, #9AA4B2);
+  margin-left: 2px;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.deal-airline {
+  font-size: 15px;
+  font-weight: 400; /* Regular */
+  color: var(--text-secondary, #9AA4B2);
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* CTA - accent color, minimal, no gimmicks */
+.deal-cta {
+  display: block;
+  width: 100%;
+  margin-top: 0;
+  padding: 14px 20px;
+  border-radius: 10px;
+  border: none;
+  background: var(--accent, #3AAEFF);
+  color: var(--bg-primary, #0E1116);
+  font-size: 16px;
+  font-weight: 600; /* SemiBold */
+  font-family: 'Inter', system-ui, sans-serif;
+  cursor: pointer;
+  text-align: center;
+  /* No transitions/transforms - calm, operator-grade */
+}
+
+.deal-cta:hover {
+  background: var(--accent, #3AAEFF);
+  opacity: 0.9;
+}
+
+.deal-cta:active {
+  opacity: 0.85;
+}
+
+/* Navigation and breadcrumbs */
+.bfd-nav {
+  margin-bottom: 32px;
+  padding: 16px 20px;
+  background: rgba(255,255,255,0.02);
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.08);
+}
+
+.nav-label {
+  font-size: 14px;
+  color: var(--text-secondary, #9AA4B2);
+  margin: 0 0 12px 0;
+}
+
+.nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.nav-link {
+  display: inline-block;
+  padding: 8px 14px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-primary, #E6EAF0);
+  background: rgba(255,255,255,0.05);
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.15s;
+}
+
+.nav-link:hover {
+  background: rgba(255,255,255,0.1);
+}
+
+.back-link {
+  display: inline-block;
+  font-size: 14px;
+  color: var(--accent, #3AAEFF);
+  text-decoration: none;
+  margin-bottom: 16px;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.breadcrumb-sep {
+  color: var(--text-secondary, #9AA4B2);
+}
+
+.bfd-footer {
+  margin-top: 64px;
+  padding-top: 32px;
+  border-top: 1px solid rgba(255,255,255,0.08);
+}
+
+.footer-content {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.footer-disclosure {
+  font-size: 14px;
+  font-weight: 400; /* Regular */
+  color: var(--text-secondary, #9AA4B2);
+  margin: 0 0 8px 0;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.footer-trust {
+  font-size: 14px;
+  font-weight: 400; /* Regular */
+  color: var(--text-secondary, #9AA4B2);
+  margin: 0;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+@media (max-width: 640px) {
+  .bfd-header h1 {
+    font-size: 36px;
+  }
+
+  .subtitle {
+    font-size: 18px;
+  }
+
+  .header-description {
+    font-size: 15px;
+  }
+
+  .deal-card {
+    padding: 16px;
+  }
+
+  .deal-route {
+    font-size: 16px;
+    flex-wrap: wrap;
+  }
+
+  .price-amount {
+    font-size: 24px;
+  }
+
+  .deal-meta {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
