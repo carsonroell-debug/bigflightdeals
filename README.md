@@ -118,3 +118,59 @@ bigflightdeals/
 ## Analytics
 
 See [docs/analytics.md](docs/analytics.md) for GA4 setup and event tracking details.
+
+## Automation
+
+### Daily Deal Refresh
+
+Deals are automatically refreshed daily via GitHub Actions.
+
+**Schedule:** 06:00 UTC (1:00 AM EST / 10:00 PM PST)
+
+### Manual Trigger
+
+1. Go to **Actions** tab in GitHub
+2. Select **Daily Deal Refresh** workflow
+3. Click **Run workflow** button
+4. Select branch and click **Run workflow**
+
+### View Logs
+
+1. Go to **Actions** tab
+2. Click on the latest workflow run
+3. Click on **refresh-deals** job to see step-by-step logs
+
+### Required GitHub Secrets
+
+Add these in **Settings > Secrets and variables > Actions**:
+
+| Secret | Description |
+|--------|-------------|
+| `TRAVELPAYOUTS_TOKEN` | API token for fetching deals |
+| `TRAVELPAYOUTS_MARKER` | Affiliate marker (e.g., `605276`) |
+| `VITE_GA4_MEASUREMENT_ID` | GA4 measurement ID (e.g., `G-XXXXXXXXXX`) |
+
+### Optional GitHub Variables
+
+Add these in **Settings > Secrets and variables > Actions > Variables**:
+
+| Variable | Default | Description |
+|----------|---------|-------------|
+| `BFD_ORIGINS` | `YYZ,YUL,YVR` | Comma-separated IATA codes |
+| `BFD_CURRENCY` | `CAD` | Currency for prices |
+| `BFD_LIMIT` | `200` | Max deals to keep |
+
+### What Happens on Failure
+
+- **API failure:** Pipeline exits with error, deals.json is NOT overwritten
+- **0 deals returned:** Pipeline refuses to overwrite, preserving existing data
+- **Build failure:** Workflow fails, no changes committed
+- **All failures:** Visible in GitHub Actions logs with clear error messages
+
+### Deploy
+
+Currently, the workflow commits updated `deals.json` back to the repo. To auto-deploy:
+
+1. **Vercel/Netlify:** Connect your repo - deploys trigger on push automatically
+2. **GitHub Pages:** Add a deploy step to the workflow
+3. **Manual:** Pull latest and run `npm run build`

@@ -204,6 +204,15 @@ async function normalize() {
     console.log(`    ${origin}: ${count}`);
   }
 
+  // SAFETY GUARD: Do not overwrite deals.json with empty data
+  if (canonicalDeals.length === 0) {
+    console.error('');
+    console.error('ERROR: 0 valid deals after normalization!');
+    console.error('Refusing to overwrite canonical deals.json to preserve existing data.');
+    console.error('Check API connectivity and credentials.');
+    throw new Error('Zero deals - aborting to preserve existing data');
+  }
+
   // Write canonical deals
   writeFileSync(CANONICAL_DEALS_PATH, JSON.stringify(canonicalDeals, null, 2));
   console.log(`\nWritten to: ${CANONICAL_DEALS_PATH}`);

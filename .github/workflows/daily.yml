@@ -1,0 +1,54 @@
+name: Daily Deal Refresh
+
+on:
+  # Run daily at 06:00 UTC (1:00 AM EST / 10:00 PM PST)
+  schedule:
+    - cron: '0 6 * * *'
+
+  # Allow manual trigger from GitHub UI
+  workflow_dispatch:
+
+jobs:
+  refresh-deals:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 'lts/*'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run deals pipeline
+        env:
+          TRAVELPAYOUTS_TOKEN: ${{ secrets.TRAVELPAYOUTS_TOKEN }}
+          TRAVELPAYOUTS_MARKER: ${{ secrets.TRAVELPAYOUTS_MARKER }}
+          BFD_ORIGINS: ${{ vars.BFD_ORIGINS || 'YYZ,YUL,YVR' }}
+          BFD_CURRENCY: ${{ vars.BFD_CURRENCY || 'CAD' }}
+          BFD_LIMIT: ${{ vars.BFD_LIMIT || '200' }}
+        run: npm run pipeline
+
+      - name: Build site
+        env:
+          VITE_GA4_MEASUREMENT_ID: ${{ secrets.VITE_GA4_MEASUREMENT_ID }}
+          VITE_TRAVELPAYOUTS_MARKER: ${{ secrets.TRAVELPAYOUTS_MARKER }}
+        run: npm run build
+
+      - name: Commit updated deals
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/data/deals.json
+          git diff --staged --quiet || git commit -m "chore: refresh deals $(date -u +%Y-%m-%d)"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
