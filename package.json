@@ -11,7 +11,9 @@
     "pipeline": "node scripts/run_pipeline.js",
     "scout": "node scripts/scout.js",
     "normalize": "node scripts/normalize.js",
-    "report": "node scripts/report.js"
+    "validate": "node scripts/validate.js",
+    "report": "node scripts/report.js",
+    "bfd:run": "node scripts/run_pipeline.js && node scripts/validate.js && npm run build && node scripts/report.js"
   },
   "dependencies": {
     "react": "^19.2.0",

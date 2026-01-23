@@ -26,6 +26,18 @@ export default function OriginFlightsPage({ origin }: OriginFlightsPageProps) {
     name: d.destination,
   })))];
 
+  // Get top 5 cheapest routes (best deal per destination)
+  const cheapestByDest = new Map<string, typeof filtered[0]>();
+  for (const deal of filtered) {
+    const existing = cheapestByDest.get(deal.destination_code);
+    if (!existing || deal.price < existing.price) {
+      cheapestByDest.set(deal.destination_code, deal);
+    }
+  }
+  const popularRoutes = [...cheapestByDest.values()]
+    .sort((a, b) => a.price - b.price)
+    .slice(0, 5);
+
   return (
     <div className="bfd-app">
       <header className="bfd-header">
@@ -34,9 +46,28 @@ export default function OriginFlightsPage({ origin }: OriginFlightsPageProps) {
         <p className="subtitle">Cheap flights departing {cityName} ({originUpper}).</p>
       </header>
 
+      {/* Popular Routes - Top 5 cheapest */}
+      {popularRoutes.length > 0 && (
+        <section className="popular-routes">
+          <h3>Popular routes from {cityName}</h3>
+          <div className="popular-routes-list">
+            {popularRoutes.map(deal => (
+              <Link
+                key={deal.destination_code}
+                to={`/${originUpper.toLowerCase()}-to-${deal.destination.toLowerCase().replace(/\s+/g, '-')}-flights`}
+                className="popular-route-card"
+              >
+                <span className="popular-route-dest">{deal.destination}</span>
+                <span className="popular-route-price">from ${deal.price}</span>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
+
       {destinations.length > 0 && (
         <nav className="bfd-nav">
-          <p className="nav-label">Filter by destination:</p>
+          <p className="nav-label">All destinations:</p>
           <div className="nav-links">
             {destinations.map(dest => (
               <Link

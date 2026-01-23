@@ -114,25 +114,40 @@ function getDedupeKey(deal) {
 }
 
 /**
+ * Generate URL-safe slug from city name
+ */
+function toSlug(str) {
+  return str.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+}
+
+/**
  * Transform raw deal to canonical format
  */
 function transformToCanonical(rawDeal) {
   const origin = rawDeal.origin.toUpperCase();
   const destination = rawDeal.destination.toUpperCase();
+  const originName = getCityName(origin);
+  const destName = getCityName(destination);
 
   return {
     id: generateDealId(rawDeal),
-    origin: getCityName(origin),
+    origin: originName,
     origin_code: origin,
-    destination: getCityName(destination),
+    destination: destName,
     destination_code: destination,
     price: rawDeal.price,
     currency: rawDeal.currency,
     airline: rawDeal.airline || 'Various',
     depart_date: rawDeal.depart_date || null,
     return_date: rawDeal.return_date || null,
+    travel_dates: rawDeal.depart_date && rawDeal.return_date
+      ? `${rawDeal.depart_date} to ${rawDeal.return_date}`
+      : rawDeal.depart_date || null,
     transfers: rawDeal.transfers,
+    source_url: rawDeal.deep_link || null,
     link: buildAffiliateUrl(rawDeal),
+    origin_slug: `${toSlug(originName)}-flights`,
+    route_slug: `${toSlug(originName)}-to-${toSlug(destName)}-flights`,
     last_seen: new Date().toISOString(),
   };
 }
