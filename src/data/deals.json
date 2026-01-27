@@ -1,5 +1,24 @@
 [
   {
+    "id": "yul-yto-146-04b91b8c",
+    "origin": "Montreal",
+    "origin_code": "YUL",
+    "destination": "YTO",
+    "destination_code": "YTO",
+    "price": 146,
+    "currency": "CAD",
+    "airline": "WS",
+    "depart_date": "2026-04-14",
+    "return_date": "2026-04-22",
+    "travel_dates": "2026-04-14 to 2026-04-22",
+    "transfers": 0,
+    "source_url": "https://www.aviasales.com/search/YUL1404YTO22041?t=WS17761491001776154920000097YULYYZ17768997001776904680000083YYZYUL_84dd16dbd1b9cae3a252f426d51cf85a_7999&search_date=26012026&expected_price_uuid=019bf92d-7379-8020-6406-9cc0e9b3ea6e&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=146",
+    "link": "https://www.aviasales.com/search/YUL1404YTO22041?t=WS17761491001776154920000097YULYYZ17768997001776904680000083YYZYUL_84dd16dbd1b9cae3a252f426d51cf85a_7999&search_date=26012026&expected_price_uuid=019bf92d-7379-8020-6406-9cc0e9b3ea6e&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=146&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-YTO",
+    "origin_slug": "montreal-flights",
+    "route_slug": "montreal-to-yto-flights",
+    "last_seen": "2026-01-27T06:34:16.400Z"
+  },
+  {
     "id": "yul-yto-180-be1417ad",
     "origin": "Montreal",
     "origin_code": "YUL",
@@ -16,7 +35,45 @@
     "link": "https://www.aviasales.com/search/YUL0106YTO01061?t=WS17802963001780301700000090YULYYZ17803557001780360800000085YYZYUL_25ae0d0f648ff6cbcfbf8711ede3adbb_9889&search_date=22012026&expected_price_uuid=019be54f-ed4f-8030-6c96-5c75659eacb1&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=180&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-YTO",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-yto-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
+  },
+  {
+    "id": "yul-yto-252-704edbfe",
+    "origin": "Montreal",
+    "origin_code": "YUL",
+    "destination": "YTO",
+    "destination_code": "YTO",
+    "price": 252,
+    "currency": "CAD",
+    "airline": "PD",
+    "depart_date": "2026-04-15",
+    "return_date": "2026-04-17",
+    "travel_dates": "2026-04-15 to 2026-04-17",
+    "transfers": 0,
+    "source_url": "https://www.aviasales.com/search/YUL1504YTO17041?t=PD17762481001776253620000092YULYYZ17764677001776472680000083YYZYUL_07693d0275a9dfca574ff88dd9b575a2_13777&search_date=26012026&expected_price_uuid=019bf92d-979f-8030-a0ba-44dcf46552fa&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=252",
+    "link": "https://www.aviasales.com/search/YUL1504YTO17041?t=PD17762481001776253620000092YULYYZ17764677001776472680000083YYZYUL_07693d0275a9dfca574ff88dd9b575a2_13777&search_date=26012026&expected_price_uuid=019bf92d-979f-8030-a0ba-44dcf46552fa&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=252&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-YTO",
+    "origin_slug": "montreal-flights",
+    "route_slug": "montreal-to-yto-flights",
+    "last_seen": "2026-01-27T06:34:16.400Z"
+  },
+  {
+    "id": "yul-fll-297-ddb2fc23",
+    "origin": "Montreal",
+    "origin_code": "YUL",
+    "destination": "FLL",
+    "destination_code": "FLL",
+    "price": 297,
+    "currency": "CAD",
+    "airline": "AA",
+    "depart_date": "2026-01-29",
+    "return_date": "2026-02-03",
+    "travel_dates": "2026-01-29 to 2026-02-03",
+    "transfers": 1,
+    "source_url": "https://www.aviasales.com/search/YUL2901FLL03021?t=AA17696967001769723700000450YULCLTFLL17701261201770158640000542FLLCLTYUL_c23e1321b4d8db95470e30e4f851477f_16561&search_date=27012026&expected_price_uuid=019bfd45-72a0-8030-a9a6-784ea4f19450&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=297",
+    "link": "https://www.aviasales.com/search/YUL2901FLL03021?t=AA17696967001769723700000450YULCLTFLL17701261201770158640000542FLLCLTYUL_c23e1321b4d8db95470e30e4f851477f_16561&search_date=27012026&expected_price_uuid=019bfd45-72a0-8030-a9a6-784ea4f19450&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=297&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-FLL",
+    "origin_slug": "montreal-flights",
+    "route_slug": "montreal-to-fll-flights",
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yul-nyc-312-12ead167",
@@ -35,7 +92,7 @@
     "link": "https://www.aviasales.com/search/YUL1803NYC25031?t=PD17738490001773863100000235YULYTZEWR17744388001774456200000290EWRYTZYUL_76e85d685ce1796be572a4be0b170812_17402&search_date=21012026&expected_price_uuid=019be100-8873-8030-ebc5-ba63155036f3&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=312&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-NYC",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-nyc-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yul-yyc-318-33104214",
@@ -54,7 +111,7 @@
     "link": "https://www.aviasales.com/search/YUL2904YYC04051?t=WS17774451001777461600000395YULYYZYYC17778852001777919100000445YYCYYZYUL_fc1c3eecbecda052f8fa5c8295e8b0d3_17948&search_date=20012026&expected_price_uuid=019bdac4-7b32-8010-a046-8aba238c96f0&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=318&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-YYC",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-calgary-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yul-nyc-322-3d7f7dab",
@@ -73,7 +130,7 @@
     "link": "https://www.aviasales.com/search/YUL1603NYC27031?t=PD17736762001773690300000235YULYTZEWR17746227001774637100000240EWRYTZYUL_92ad3716997f94d6afbe0ee7011a325a_17989&search_date=21012026&expected_price_uuid=019be100-8601-8030-64cd-29515dbeb7ef&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=322&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-NYC",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-nyc-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yul-nyc-322-d9575c9e",
@@ -92,26 +149,7 @@
     "link": "https://www.aviasales.com/search/YUL1703NYC26031?t=PD17737626001773776700000235YULYTZEWR17745363001774552500000270EWRYTZYUL_e1e4243899aef0719b0150e6a3585967_17989&search_date=21012026&expected_price_uuid=019be101-0427-8020-ebcd-8fbb8783660d&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=322&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-NYC",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-nyc-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
-  },
-  {
-    "id": "yul-nyc-354-35d8d3e6",
-    "origin": "Montreal",
-    "origin_code": "YUL",
-    "destination": "NYC",
-    "destination_code": "NYC",
-    "price": 354,
-    "currency": "CAD",
-    "airline": "AC",
-    "depart_date": "2026-02-05",
-    "return_date": "2026-02-06",
-    "travel_dates": "2026-02-05 to 2026-02-06",
-    "transfers": 0,
-    "source_url": "https://www.aviasales.com/search/YUL0502NYC06021?t=AC17703186001770325080000108YULJFK17703579001770363120000087LGAYUL_89e277ddbc0ffb65718f12645b821505_19782&search_date=19012026&expected_price_uuid=019bd887-e33a-8030-a683-7a976bd0e318&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=354",
-    "link": "https://www.aviasales.com/search/YUL0502NYC06021?t=AC17703186001770325080000108YULJFK17703579001770363120000087LGAYUL_89e277ddbc0ffb65718f12645b821505_19782&search_date=19012026&expected_price_uuid=019bd887-e33a-8030-a683-7a976bd0e318&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=354&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-NYC",
-    "origin_slug": "montreal-flights",
-    "route_slug": "montreal-to-nyc-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yul-yyc-361-119c531d",
@@ -130,7 +168,7 @@
     "link": "https://www.aviasales.com/search/YUL2804YYC03051?t=WS17773587001777375200000395YULYYZYYC17777892001777832700000605YYCYYZYUL_05c8d03c4572fa494428f8197d292070_19846&search_date=22012026&expected_price_uuid=019be6d3-7703-8010-ae87-52b569ebfddd&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=361&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-YYC",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-calgary-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yul-yyc-366-949b2f9d",
@@ -149,7 +187,7 @@
     "link": "https://www.aviasales.com/search/YUL2704YYC02051?t=WS17772723001777317600000875YULYYZYYC17777124001777746300000445YYCYYZYUL_a2db4d0b1f05a76b237a07b32d69f617_20671&search_date=20012026&expected_price_uuid=019bdac1-9f6c-8010-270f-2425e0fde0c1&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=366&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-YYC",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-calgary-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yul-yqb-387-35dacbd1",
@@ -168,7 +206,7 @@
     "link": "https://www.aviasales.com/search/YUL1603YQB25031?t=PB17736453001773648900000060YULYQB17744787001774482000000055YQBYUL_340d9ca677af7a3b9c12b1c91510ad19_21605&search_date=21012026&expected_price_uuid=019be0ff-fa96-8030-eae6-c253ec697e8f&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=387&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-YQB",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-yqb-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yul-yqb-387-48d3dccf",
@@ -187,7 +225,83 @@
     "link": "https://www.aviasales.com/search/YUL1803YQB26031?t=PB17738244001773828000000060YULYQB17745318001774535100000055YQBYUL_1275a41db64f3af33af7bd923199cf1e_21605&search_date=21012026&expected_price_uuid=019be0ff-f04f-8030-e9ac-bc73aa7b2f9c&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=387&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-YQB",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-yqb-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
+  },
+  {
+    "id": "yul-yto-421-9f51dabf",
+    "origin": "Montreal",
+    "origin_code": "YUL",
+    "destination": "YTO",
+    "destination_code": "YTO",
+    "price": 421,
+    "currency": "CAD",
+    "airline": "WS",
+    "depart_date": "2026-08-22",
+    "return_date": "2026-08-23",
+    "travel_dates": "2026-08-22 to 2026-08-23",
+    "transfers": 0,
+    "source_url": "https://www.aviasales.com/search/YUL2208YTO23081?t=WS17873811001787386500000090YULYYZ17875044001787509500000085YYZYUL_39570b1e81d1b9f52beee67131b47fee_23462&search_date=26012026&expected_price_uuid=019bfb76-b86a-8030-a0cd-5606c901e1b2&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=421",
+    "link": "https://www.aviasales.com/search/YUL2208YTO23081?t=WS17873811001787386500000090YULYYZ17875044001787509500000085YYZYUL_39570b1e81d1b9f52beee67131b47fee_23462&search_date=26012026&expected_price_uuid=019bfb76-b86a-8030-a0cd-5606c901e1b2&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=421&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-YTO",
+    "origin_slug": "montreal-flights",
+    "route_slug": "montreal-to-yto-flights",
+    "last_seen": "2026-01-27T06:34:16.401Z"
+  },
+  {
+    "id": "yul-yyj-431-ae08cb5d",
+    "origin": "Montreal",
+    "origin_code": "YUL",
+    "destination": "YYJ",
+    "destination_code": "YYJ",
+    "price": 431,
+    "currency": "CAD",
+    "airline": "WS",
+    "depart_date": "2026-03-06",
+    "return_date": "2026-03-09",
+    "travel_dates": "2026-03-06 to 2026-03-09",
+    "transfers": 1,
+    "source_url": "https://www.aviasales.com/search/YUL0603YYJ09031?t=WS17728254001772842860000471YULYYCYYJ17730828001773212700001985YYJYVRYLWYYCYUL_43ac4de62ef0c1a496c8bad209afb54b_24048&search_date=27012026&expected_price_uuid=019bfd31-f098-8010-2199-5f6819e773fc&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=431",
+    "link": "https://www.aviasales.com/search/YUL0603YYJ09031?t=WS17728254001772842860000471YULYYCYYJ17730828001773212700001985YYJYVRYLWYYCYUL_43ac4de62ef0c1a496c8bad209afb54b_24048&search_date=27012026&expected_price_uuid=019bfd31-f098-8010-2199-5f6819e773fc&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=431&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-YYJ",
+    "origin_slug": "montreal-flights",
+    "route_slug": "montreal-to-yyj-flights",
+    "last_seen": "2026-01-27T06:34:16.401Z"
+  },
+  {
+    "id": "yul-vra-518-2b7037cc",
+    "origin": "Montreal",
+    "origin_code": "YUL",
+    "destination": "VRA",
+    "destination_code": "VRA",
+    "price": 518,
+    "currency": "CAD",
+    "airline": "TS",
+    "depart_date": "2026-03-13",
+    "return_date": "2026-03-23",
+    "travel_dates": "2026-03-13 to 2026-03-23",
+    "transfers": 0,
+    "source_url": "https://www.aviasales.com/search/YUL1303VRA23031?t=TS17733954001773409800000240YULVRA17742990001774313100000235VRAYUL_8fc4b12ab0a6f95110bd7ef48d065ebd_28527&search_date=26012026&expected_price_uuid=019bf942-100e-8030-a515-24f4ea67f76a&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=518",
+    "link": "https://www.aviasales.com/search/YUL1303VRA23031?t=TS17733954001773409800000240YULVRA17742990001774313100000235VRAYUL_8fc4b12ab0a6f95110bd7ef48d065ebd_28527&search_date=26012026&expected_price_uuid=019bf942-100e-8030-a515-24f4ea67f76a&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=518&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-VRA",
+    "origin_slug": "montreal-flights",
+    "route_slug": "montreal-to-vra-flights",
+    "last_seen": "2026-01-27T06:34:16.401Z"
+  },
+  {
+    "id": "yul-vra-525-9e31fdcc",
+    "origin": "Montreal",
+    "origin_code": "YUL",
+    "destination": "VRA",
+    "destination_code": "VRA",
+    "price": 525,
+    "currency": "CAD",
+    "airline": "TS",
+    "depart_date": "2026-02-16",
+    "return_date": "2026-02-22",
+    "travel_dates": "2026-02-16 to 2026-02-22",
+    "transfers": 0,
+    "source_url": "https://www.aviasales.com/search/YUL1602VRA22021?t=TS17712564001771270800000240YULVRA17717928001771806900000235VRAYUL_ab3be04a1f1dc556c611ce33dbf375c4_29310&search_date=26012026&expected_price_uuid=019bfc4b-9a3f-8010-a2d3-0eab4c5694a0&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=525",
+    "link": "https://www.aviasales.com/search/YUL1602VRA22021?t=TS17712564001771270800000240YULVRA17717928001771806900000235VRAYUL_ab3be04a1f1dc556c611ce33dbf375c4_29310&search_date=26012026&expected_price_uuid=019bfc4b-9a3f-8010-a2d3-0eab4c5694a0&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=525&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-VRA",
+    "origin_slug": "montreal-flights",
+    "route_slug": "montreal-to-vra-flights",
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yul-sjo-528-2bb04a5d",
@@ -206,7 +320,7 @@
     "link": "https://www.aviasales.com/search/YUL0811SJO15111?t=AV17941752001794214200000710YULBOGSJO17947071001794774900001070SJOBOGYUL_5c773a04e1dfadb090dbde23cdcccd05_29112&search_date=22012026&expected_price_uuid=019be731-0698-8030-ef08-9bfeab25e307&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=528&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-SJO",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-sjo-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yul-yvr-548-df63a191",
@@ -225,7 +339,7 @@
     "link": "https://www.aviasales.com/search/YUL2307YVR27071?t=WS17848278001784843400000440YULYYCYVR17851581001785199200000505YVRYYZYUL_b6041be280e82eb9b45a552e20fc55d2_30875&search_date=20012026&expected_price_uuid=019bdb05-eeae-8030-2b40-2e874b4c32db&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=548&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-YVR",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-vancouver-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yul-sju-583-5fe2a6ae",
@@ -244,7 +358,7 @@
     "link": "https://www.aviasales.com/search/YUL1302SJU18021?t=PD17709696001771118640002424YULFLLPHLSJU17713935001771507680001963SJUFLLEWRYUL_35d8cc9b7e4175fc30639d43c8633482_32060&search_date=24012026&expected_price_uuid=019bed80-1596-8010-2176-8d42bd742320&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=583&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-SJU",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-san-juan-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yul-sxm-588-2aaacfc4",
@@ -263,7 +377,7 @@
     "link": "https://www.aviasales.com/search/YUL0402SXM11021?t=WS17701875001770218220000452YULYYZSXM17708268001770856680000558SXMYYZYUL_fda23e8acbb65f900e07e96edfa5490f_32259&search_date=25012026&expected_price_uuid=019bf53a-975d-8020-a105-27dc90120ad7&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=588&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-SXM",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-sxm-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yul-bog-619-edb52fb1",
@@ -282,7 +396,7 @@
     "link": "https://www.aviasales.com/search/YUL0102BOG13021?t=NK17699637001770036600001215YULMCOBOG17709903001771029000000645BOGMCOYUL_4b452df44ff87b37632cfacba0a0c2b3_34021&search_date=24012026&expected_price_uuid=019bf206-f7fb-8010-2bb0-d813a4d6a340&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=619&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-BOG",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-bogota-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yul-yyc-626-0bf8cf62",
@@ -301,7 +415,7 @@
     "link": "https://www.aviasales.com/search/YUL2806YYC26071?t=WS17826747001782693900000440YULYYZYYC17850492001785078600000370YYCYOWYUL_47b99b85a62ed9872c22626934f9f098_34377&search_date=24012026&expected_price_uuid=019bf0b2-8f92-8020-e8e0-81c649e4807a&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=625&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-YYC",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-calgary-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yul-yyc-626-9478339f",
@@ -320,7 +434,7 @@
     "link": "https://www.aviasales.com/search/YUL0507YYC26071?t=WS17832339001783250400000395YULYYZYYC17850492001785078600000370YYCYOWYUL_85c1f97a1886d148903f62619bde31a7_34377&search_date=24012026&expected_price_uuid=019bf0b2-c0f7-8020-a152-1d0656e5f813&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=625&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-YYC",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-calgary-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yul-yyc-632-d74c217c",
@@ -339,7 +453,7 @@
     "link": "https://www.aviasales.com/search/YUL1507YYC22071?t=WS17840979001784132700000700YULYYZYWGYYC17847450001784767320000252YYCYUL_507202ed1c2075d1b90fa5343d17da7f_34696&search_date=22012026&expected_price_uuid=019be579-afed-8020-e409-cc7397fc1431&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=632&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-YYC",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-calgary-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.402Z"
   },
   {
     "id": "yul-ctg-653-570f073b",
@@ -358,7 +472,7 @@
     "link": "https://www.aviasales.com/search/YUL0203CTG26031?t=AV17724888001772523900000585YULBOGCTG17745603001774610580000778CTGBOGYYZYUL_c088e90d6b14536e13932c3e70001ae3_35907&search_date=24012026&expected_price_uuid=019bf209-98fe-8010-65c1-a706b35a8041&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=653&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-CTG",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-ctg-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.402Z"
   },
   {
     "id": "yul-bog-655-7dffaab5",
@@ -377,7 +491,7 @@
     "link": "https://www.aviasales.com/search/YUL0602BOG19021?t=CM17703633001770397380000568YULPTYBOG17715028801771544880000700BOGPTYYUL_3626f49bafa9547a553f4e3b71740907_35983&search_date=24012026&expected_price_uuid=019bf206-f731-8010-a877-b93ae710acaa&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=655&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-BOG",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-bogota-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.402Z"
   },
   {
     "id": "yul-bog-655-d710085f",
@@ -396,7 +510,7 @@
     "link": "https://www.aviasales.com/search/YUL0802BOG17021?t=CM17705361001770570180000568YULPTYBOG17713300801771372080000700BOGPTYYUL_ee1e163344a0ff482db200d5de66037f_35983&search_date=24012026&expected_price_uuid=019bf207-e329-8010-a188-fea054718e22&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=655&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-BOG",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-bogota-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.402Z"
   },
   {
     "id": "yul-puj-656-e9f51c67",
@@ -415,121 +529,26 @@
     "link": "https://www.aviasales.com/search/YUL1302PUJ17021?t=DM17709651001770987180000308YULPUJ17713508401771457340001835PUJMIAYUL_7c8c13a5cc8c919c6b8e7c415f1e2d84_36058&search_date=24012026&expected_price_uuid=019bed7e-dca5-8010-609e-67136c175c39&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=656&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-PUJ",
     "origin_slug": "montreal-flights",
     "route_slug": "montreal-to-punta-cana-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.402Z"
   },
   {
-    "id": "yul-lis-664-25023a19",
-    "origin": "Montreal",
-    "origin_code": "YUL",
-    "destination": "Lisbon",
-    "destination_code": "LIS",
-    "price": 664,
+    "id": "yvr-yyc-133-a25e245d",
+    "origin": "Vancouver",
+    "origin_code": "YVR",
+    "destination": "Calgary",
+    "destination_code": "YYC",
+    "price": 133,
     "currency": "CAD",
-    "airline": "TS",
-    "depart_date": "2026-02-01",
-    "return_date": "2026-02-03",
-    "travel_dates": "2026-02-01 to 2026-02-03",
-    "transfers": 0,
-    "source_url": "https://www.aviasales.com/search/YUL0102LIS03021?t=TS17699769001770018300000390YULLIS17701107001770120900000470LISYUL_8a9c96a04d31da359862fc1621ebb332_36479&search_date=24012026&expected_price_uuid=019bef0e-4631-8010-2652-7b11e1b54e3c&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=664",
-    "link": "https://www.aviasales.com/search/YUL0102LIS03021?t=TS17699769001770018300000390YULLIS17701107001770120900000470LISYUL_8a9c96a04d31da359862fc1621ebb332_36479&search_date=24012026&expected_price_uuid=019bef0e-4631-8010-2652-7b11e1b54e3c&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=664&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-LIS",
-    "origin_slug": "montreal-flights",
-    "route_slug": "montreal-to-lisbon-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
-  },
-  {
-    "id": "yul-lis-679-d59784f7",
-    "origin": "Montreal",
-    "origin_code": "YUL",
-    "destination": "Lisbon",
-    "destination_code": "LIS",
-    "price": 679,
-    "currency": "CAD",
-    "airline": "AF",
-    "depart_date": "2026-03-25",
-    "return_date": "2026-03-29",
-    "travel_dates": "2026-03-25 to 2026-03-29",
+    "airline": "WS",
+    "depart_date": "2026-02-16",
+    "return_date": "2026-02-18",
+    "travel_dates": "2026-02-16 to 2026-02-18",
     "transfers": 1,
-    "source_url": "https://www.aviasales.com/search/YUL2503LIS29031?t=AF17744691001774537800000905YULCDGLIS17748102001774882800001510LISCDGYUL_e62b2368bbe56476cdce1e20c76e30d3_37349&search_date=22012026&expected_price_uuid=019be67f-e09c-8010-6b68-73f2ca473d9d&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=679",
-    "link": "https://www.aviasales.com/search/YUL2503LIS29031?t=AF17744691001774537800000905YULCDGLIS17748102001774882800001510LISCDGYUL_e62b2368bbe56476cdce1e20c76e30d3_37349&search_date=22012026&expected_price_uuid=019be67f-e09c-8010-6b68-73f2ca473d9d&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=679&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-LIS",
-    "origin_slug": "montreal-flights",
-    "route_slug": "montreal-to-lisbon-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
-  },
-  {
-    "id": "yul-lis-685-b5aa4a01",
-    "origin": "Montreal",
-    "origin_code": "YUL",
-    "destination": "Lisbon",
-    "destination_code": "LIS",
-    "price": 685,
-    "currency": "CAD",
-    "airline": "PD",
-    "depart_date": "2026-01-28",
-    "return_date": "2026-01-31",
-    "travel_dates": "2026-01-28 to 2026-01-31",
-    "transfers": 1,
-    "source_url": "https://www.aviasales.com/search/YUL2801LIS31011?t=TS17696211001769755500001940YULYYZLIS17698515001769861700000470LISYUL_efff62b10c3d2655049cab0997822795_37627&search_date=24012026&expected_price_uuid=019bedd9-668e-8010-aad0-f4c998f5e7d2&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=685",
-    "link": "https://www.aviasales.com/search/YUL2801LIS31011?t=TS17696211001769755500001940YULYYZLIS17698515001769861700000470LISYUL_efff62b10c3d2655049cab0997822795_37627&search_date=24012026&expected_price_uuid=019bedd9-668e-8010-aad0-f4c998f5e7d2&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=685&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-LIS",
-    "origin_slug": "montreal-flights",
-    "route_slug": "montreal-to-lisbon-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
-  },
-  {
-    "id": "yul-lis-693-e95fe495",
-    "origin": "Montreal",
-    "origin_code": "YUL",
-    "destination": "Lisbon",
-    "destination_code": "LIS",
-    "price": 693,
-    "currency": "CAD",
-    "airline": "PD",
-    "depart_date": "2026-01-29",
-    "return_date": "2026-02-01",
-    "travel_dates": "2026-01-29 to 2026-02-01",
-    "transfers": 1,
-    "source_url": "https://www.aviasales.com/search/YUL2901LIS01021?t=TS17696970001769755500000675YULYYZLIS17699349001769979300001040LISYYZYUL_973868023507d7000f88729bcb781768_38110&search_date=24012026&expected_price_uuid=019bedd9-5d1c-8010-6d00-1bd99958572c&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=693",
-    "link": "https://www.aviasales.com/search/YUL2901LIS01021?t=TS17696970001769755500000675YULYYZLIS17699349001769979300001040LISYYZYUL_973868023507d7000f88729bcb781768_38110&search_date=24012026&expected_price_uuid=019bedd9-5d1c-8010-6d00-1bd99958572c&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=693&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-LIS",
-    "origin_slug": "montreal-flights",
-    "route_slug": "montreal-to-lisbon-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
-  },
-  {
-    "id": "yul-bog-695-aee5d814",
-    "origin": "Montreal",
-    "origin_code": "YUL",
-    "destination": "Bogota",
-    "destination_code": "BOG",
-    "price": 695,
-    "currency": "CAD",
-    "airline": "TS",
-    "depart_date": "2026-02-09",
-    "return_date": "2026-02-26",
-    "travel_dates": "2026-02-09 to 2026-02-26",
-    "transfers": 2,
-    "source_url": "https://www.aviasales.com/search/YUL0902BOG26021?t=NK17706195001770727800001805YULFLLMCOBOG17721183601772153100000579BOGFLLYUL_7ea5923258a99ed67691ddf0eee8b23c_38170&search_date=24012026&expected_price_uuid=019bf207-018d-8010-26d2-2dc1fb330ea7&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=695",
-    "link": "https://www.aviasales.com/search/YUL0902BOG26021?t=NK17706195001770727800001805YULFLLMCOBOG17721183601772153100000579BOGFLLYUL_7ea5923258a99ed67691ddf0eee8b23c_38170&search_date=24012026&expected_price_uuid=019bf207-018d-8010-26d2-2dc1fb330ea7&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=695&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-BOG",
-    "origin_slug": "montreal-flights",
-    "route_slug": "montreal-to-bogota-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
-  },
-  {
-    "id": "yul-bog-719-ffd91656",
-    "origin": "Montreal",
-    "origin_code": "YUL",
-    "destination": "Bogota",
-    "destination_code": "BOG",
-    "price": 719,
-    "currency": "CAD",
-    "airline": "UA",
-    "depart_date": "2026-02-07",
-    "return_date": "2026-02-10",
-    "travel_dates": "2026-02-07 to 2026-02-10",
-    "transfers": 2,
-    "source_url": "https://www.aviasales.com/search/YUL0702BOG10021?t=DM17704764001770559620001387YULEWRFLLBOG17707327801770768900000602BOGPUJYUL_13b247a3afc771adbe0f557de5b90848_39528&search_date=24012026&expected_price_uuid=019bf206-fb7c-8010-6b1c-35c1449f0a0d&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=719",
-    "link": "https://www.aviasales.com/search/YUL0702BOG10021?t=DM17704764001770559620001387YULEWRFLLBOG17707327801770768900000602BOGPUJYUL_13b247a3afc771adbe0f557de5b90848_39528&search_date=24012026&expected_price_uuid=019bf206-fb7c-8010-6b1c-35c1449f0a0d&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=719&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YUL-BOG",
-    "origin_slug": "montreal-flights",
-    "route_slug": "montreal-to-bogota-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "source_url": "https://www.aviasales.com/search/YVR1602YYC18021?t=F817712531001771315320000977YVRYQQYYC17713989001771401900000110YYCYVR_fa1811022570675be106958b77f5144c_7421&search_date=27012026&expected_price_uuid=019bfdb0-8a68-8010-2536-8314aaf981da&expected_price_source=share&expected_price_currency=cad&expected_price=133",
+    "link": "https://www.aviasales.com/search/YVR1602YYC18021?t=F817712531001771315320000977YVRYQQYYC17713989001771401900000110YYCYVR_fa1811022570675be106958b77f5144c_7421&search_date=27012026&expected_price_uuid=019bfdb0-8a68-8010-2536-8314aaf981da&expected_price_source=share&expected_price_currency=cad&expected_price=133&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-YYC",
+    "origin_slug": "vancouver-flights",
+    "route_slug": "vancouver-to-calgary-flights",
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
     "id": "yvr-yyc-169-dbfe7a53",
@@ -548,26 +567,7 @@
     "link": "https://www.aviasales.com/search/YVR1102YYC12021?t=WS17707932001770807900000185YVRYLWYYC17708910001770914940000459YYCYQQYVR_13f0511b814b17e126fda3fcbd3db0f5_9416&search_date=22012026&expected_price_uuid=019be48c-9cda-8010-2e87-5ff4a96f41a7&expected_price_source=share&expected_price_currency=cad&expected_price=169&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-YYC",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-calgary-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
-  },
-  {
-    "id": "yvr-yyc-194-58c1c33d",
-    "origin": "Vancouver",
-    "origin_code": "YVR",
-    "destination": "Calgary",
-    "destination_code": "YYC",
-    "price": 194,
-    "currency": "CAD",
-    "airline": "WS",
-    "depart_date": "2026-02-12",
-    "return_date": "2026-02-14",
-    "travel_dates": "2026-02-12 to 2026-02-14",
-    "transfers": 1,
-    "source_url": "https://www.aviasales.com/search/YVR1202YYC14021?t=F817708796001770894300000185YVRYLWYYC17711103001771113000000105YYCYVR_de3cda2703dabb91da2bf9d36fef5dff_10868&search_date=19012026&expected_price_uuid=019bd7a5-59f6-8010-6cbe-d15a02e3b845&expected_price_source=share&expected_price_currency=cad&expected_price=194",
-    "link": "https://www.aviasales.com/search/YVR1202YYC14021?t=F817708796001770894300000185YVRYLWYYC17711103001771113000000105YYCYVR_de3cda2703dabb91da2bf9d36fef5dff_10868&search_date=19012026&expected_price_uuid=019bd7a5-59f6-8010-6cbe-d15a02e3b845&expected_price_source=share&expected_price_currency=cad&expected_price=194&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-YYC",
-    "origin_slug": "vancouver-flights",
-    "route_slug": "vancouver-to-calgary-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
     "id": "yvr-yto-202-72b789c9",
@@ -586,7 +586,7 @@
     "link": "https://www.aviasales.com/search/YVR3101YTO02021?t=F817698182001769845800000280YVRYYZ17700189001770027600000325YYZYVR_94522b4046efbd5e4a9ea751d494d3dd_11386&search_date=20012026&expected_price_uuid=019bdaab-f9fb-8010-a46d-1cd6e36a674f&expected_price_source=share&expected_price_currency=cad&expected_price=202&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-YTO",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-yto-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
     "id": "yvr-yto-209-d7ea05d2",
@@ -605,45 +605,26 @@
     "link": "https://www.aviasales.com/search/YVR1602YTO20021?t=F817712216001771249200000280YVRYYZ17716212001771629900000325YYZYVR_a0d399354cb50fd8634f3a0e69fafc06_11575&search_date=23012026&expected_price_uuid=019be8ad-55cb-8010-6f8d-30f4be52d19b&expected_price_source=share&expected_price_currency=cad&expected_price=209&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-YTO",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-yto-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
-    "id": "yvr-yto-210-55301742",
+    "id": "yvr-yto-230-fff98d65",
     "origin": "Vancouver",
     "origin_code": "YVR",
     "destination": "YTO",
     "destination_code": "YTO",
-    "price": 210,
+    "price": 230,
     "currency": "CAD",
     "airline": "WS",
     "depart_date": "2026-04-27",
     "return_date": "2026-04-30",
     "travel_dates": "2026-04-27 to 2026-04-30",
     "transfers": 1,
-    "source_url": "https://www.aviasales.com/search/YVR2704YTO30041?t=WS17772696001777310100000495YVRYYCYHM17775726001777594500000545YHMYYCYVR_d65999dfc3b89169a1dc3ce4f5270612_11514&search_date=26012026&expected_price_uuid=019bf84d-a737-8010-63ea-ea48536d3f29&expected_price_source=share&expected_price_currency=cad&expected_price=210",
-    "link": "https://www.aviasales.com/search/YVR2704YTO30041?t=WS17772696001777310100000495YVRYYCYHM17775726001777594500000545YHMYYCYVR_d65999dfc3b89169a1dc3ce4f5270612_11514&search_date=26012026&expected_price_uuid=019bf84d-a737-8010-63ea-ea48536d3f29&expected_price_source=share&expected_price_currency=cad&expected_price=210&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-YTO",
+    "source_url": "https://www.aviasales.com/search/YVR2704YTO30041?t=WS17772696001777310100000495YVRYYCYHM17775726001777594500000545YHMYYCYVR_d65999dfc3b89169a1dc3ce4f5270612_12545&search_date=26012026&expected_price_uuid=019bf928-1844-8010-6a92-10794513cf86&expected_price_source=share&expected_price_currency=cad&expected_price=230",
+    "link": "https://www.aviasales.com/search/YVR2704YTO30041?t=WS17772696001777310100000495YVRYYCYHM17775726001777594500000545YHMYYCYVR_d65999dfc3b89169a1dc3ce4f5270612_12545&search_date=26012026&expected_price_uuid=019bf928-1844-8010-6a92-10794513cf86&expected_price_source=share&expected_price_currency=cad&expected_price=230&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-YTO",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-yto-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
-  },
-  {
-    "id": "yvr-las-224-a9559b59",
-    "origin": "Vancouver",
-    "origin_code": "YVR",
-    "destination": "LAS",
-    "destination_code": "LAS",
-    "price": 224,
-    "currency": "CAD",
-    "airline": "WS",
-    "depart_date": "2026-03-01",
-    "return_date": "2026-03-03",
-    "travel_dates": "2026-03-01 to 2026-03-03",
-    "transfers": 0,
-    "source_url": "https://www.aviasales.com/search/YVR0103LAS03031?t=WS17723862001772396160000166YVRLAS17725368001772563200000440LASYYCYVR_224be30ba72087e764d6b7a0597dab69_12576&search_date=20012026&expected_price_uuid=019bd926-d19e-8020-a0d7-76e8e368afd1&expected_price_source=share&expected_price_currency=cad&expected_price=224",
-    "link": "https://www.aviasales.com/search/YVR0103LAS03031?t=WS17723862001772396160000166YVRLAS17725368001772563200000440LASYYCYVR_224be30ba72087e764d6b7a0597dab69_12576&search_date=20012026&expected_price_uuid=019bd926-d19e-8020-a0d7-76e8e368afd1&expected_price_source=share&expected_price_currency=cad&expected_price=224&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-LAS",
-    "origin_slug": "vancouver-flights",
-    "route_slug": "vancouver-to-las-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
     "id": "yvr-yto-237-9eb4ecbe",
@@ -662,7 +643,7 @@
     "link": "https://www.aviasales.com/search/YVR3001YTO01021?t=F817697924001769819880000278YVRYYZ17699796001769988300000325YYZYVR_e0c0cbbed0a9bf8aac13ea324f990991_13017&search_date=24012026&expected_price_uuid=019bf245-94f3-8030-6496-1d3bf1836f57&expected_price_source=share&expected_price_currency=cad&expected_price=237&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-YTO",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-yto-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
     "id": "yvr-sfo-237-ad2e2c80",
@@ -681,7 +662,7 @@
     "link": "https://www.aviasales.com/search/YVR0803SFO14031?t=UA17729838001773040980000953YVRDENSFO17734833001773492000000145SFOYVR_614501f9e08dedcd6c6105cc16d7108e_13085&search_date=23012026&expected_price_uuid=019bed1b-9135-8020-6bb3-d2aa0a210882&expected_price_source=share&expected_price_currency=cad&expected_price=237&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-SFO",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-san-francisco-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
     "id": "yvr-yyc-257-2ebd0fe9",
@@ -700,7 +681,7 @@
     "link": "https://www.aviasales.com/search/YVR1202YYC13021?t=WS17709342001770943320000092YVRYYC17709696001770980280000238YYCYYJYVR_6a3fafb18aabd8034b532fdb4dc10dad_14154&search_date=25012026&expected_price_uuid=019bf3c6-b72d-8010-260e-d70f6e8e0785&expected_price_source=share&expected_price_currency=cad&expected_price=257&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-YYC",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-calgary-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yvr-ywg-261-c762b188",
@@ -719,7 +700,7 @@
     "link": "https://www.aviasales.com/search/YVR0103YWG08031?t=F817724030001772446020000597YVRYYCYWG17730018001773006900000205YWGYVR_d2ad55419c2f5f4d834a8484283e6cbf_14271&search_date=25012026&expected_price_uuid=019bf6a4-b0cb-8020-2679-e89c74acca99&expected_price_source=share&expected_price_currency=cad&expected_price=261&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-YWG",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-winnipeg-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yvr-lax-261-bd2a9964",
@@ -738,7 +719,7 @@
     "link": "https://www.aviasales.com/search/YVR0102LAX06021?t=AC17699601001769984880000413YVRDENLAX17703822001770393120000182LAXYVR_b636d147c2fbef4776c3c1ef7e8f1e47_14352&search_date=24012026&expected_price_uuid=019bee87-05be-8010-2dab-60ab2f5ce83f&expected_price_source=share&expected_price_currency=cad&expected_price=261&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-LAX",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-los-angeles-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yvr-lax-261-591ac2b9",
@@ -757,7 +738,7 @@
     "link": "https://www.aviasales.com/search/YVR0202LAX06021?t=AC17700219001770059700000630YVRDENLAX17703822001770393120000182LAXYVR_81f80eeb1819a7da151929aee313a71c_14352&search_date=24012026&expected_price_uuid=019bee81-6321-8010-65b2-f84d93bbbfba&expected_price_source=share&expected_price_currency=cad&expected_price=261&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-LAX",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-los-angeles-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yvr-lax-281-a9a0b510",
@@ -776,7 +757,7 @@
     "link": "https://www.aviasales.com/search/YVR3101LAX04021?t=AC17698491001769873160000401YVRDENLAX17702286001770239400000180LAXYVR_def571f1d05ef121639e716d8e2dfc69_15431&search_date=24012026&expected_price_uuid=019bee80-e88e-8010-67cc-eddb6b580097&expected_price_source=share&expected_price_currency=cad&expected_price=281&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-LAX",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-los-angeles-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yvr-yea-283-96b9d96b",
@@ -795,45 +776,26 @@
     "link": "https://www.aviasales.com/search/YVR0507YEA07071?t=F817832339001783243200000095YVRYEG17834394001783442100000105YEGYVR_4d8da7c714d295c3d07e51cbd05fe7cf_15590&search_date=22012026&expected_price_uuid=019be4de-e041-8010-a306-d0a10cc5f14c&expected_price_source=share&expected_price_currency=cad&expected_price=283&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-YEA",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-yea-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
-    "id": "yvr-lax-283-d3c5777d",
-    "origin": "Vancouver",
-    "origin_code": "YVR",
-    "destination": "Los Angeles",
-    "destination_code": "LAX",
-    "price": 283,
-    "currency": "CAD",
-    "airline": "AS",
-    "depart_date": "2026-02-05",
-    "return_date": "2026-02-11",
-    "travel_dates": "2026-02-05 to 2026-02-11",
-    "transfers": 2,
-    "source_url": "https://www.aviasales.com/search/YVR0502LAX11021?t=AS17703135001770335700000370YVRSEAPDXLAX17708110201770855000000733BURSFOSEAYVR_22b1806cac41fff9e7cb3940dab70fdb_15900&search_date=19012026&expected_price_uuid=019bd5eb-a197-8010-25c1-805dd1dbd81b&expected_price_source=share&expected_price_currency=cad&expected_price=283",
-    "link": "https://www.aviasales.com/search/YVR0502LAX11021?t=AS17703135001770335700000370YVRSEAPDXLAX17708110201770855000000733BURSFOSEAYVR_22b1806cac41fff9e7cb3940dab70fdb_15900&search_date=19012026&expected_price_uuid=019bd5eb-a197-8010-25c1-805dd1dbd81b&expected_price_source=share&expected_price_currency=cad&expected_price=283&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-LAX",
-    "origin_slug": "vancouver-flights",
-    "route_slug": "vancouver-to-los-angeles-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
-  },
-  {
-    "id": "yvr-sea-306-b7e84348",
+    "id": "yvr-sea-302-3036b1c5",
     "origin": "Vancouver",
     "origin_code": "YVR",
     "destination": "Seattle",
     "destination_code": "SEA",
-    "price": 306,
+    "price": 302,
     "currency": "CAD",
-    "airline": "WS",
-    "depart_date": "2026-02-02",
-    "return_date": "2026-02-09",
-    "travel_dates": "2026-02-02 to 2026-02-09",
-    "transfers": 1,
-    "source_url": "https://www.aviasales.com/search/YVR0202SEA09021?t=WS17700156001770027900000205YVRYLWSEA17706669001770670500000060SEAYVR_a8f69e80a50a0857281a3fbb2ebdc15a_17114&search_date=19012026&expected_price_uuid=019bd64e-e23c-8020-e0d2-84fa50a04142&expected_price_source=share&expected_price_currency=cad&expected_price=306",
-    "link": "https://www.aviasales.com/search/YVR0202SEA09021?t=WS17700156001770027900000205YVRYLWSEA17706669001770670500000060SEAYVR_a8f69e80a50a0857281a3fbb2ebdc15a_17114&search_date=19012026&expected_price_uuid=019bd64e-e23c-8020-e0d2-84fa50a04142&expected_price_source=share&expected_price_currency=cad&expected_price=306&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-SEA",
+    "airline": "AC",
+    "depart_date": "2026-05-11",
+    "return_date": "2026-06-08",
+    "travel_dates": "2026-05-11 to 2026-06-08",
+    "transfers": 0,
+    "source_url": "https://www.aviasales.com/search/YVR1105SEA08061?t=AC17785053001778509200000065YVRSEA17809308001780934820000067SEAYVR_a34841847cd954b02e3eb4ffa9924b8d_16833&search_date=26012026&expected_price_uuid=019bfaaa-790c-8020-6afb-b416a4ee4949&expected_price_source=share&expected_price_currency=cad&expected_price=302",
+    "link": "https://www.aviasales.com/search/YVR1105SEA08061?t=AC17785053001778509200000065YVRSEA17809308001780934820000067SEAYVR_a34841847cd954b02e3eb4ffa9924b8d_16833&search_date=26012026&expected_price_uuid=019bfaaa-790c-8020-6afb-b416a4ee4949&expected_price_source=share&expected_price_currency=cad&expected_price=302&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-SEA",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-seattle-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yvr-yow-312-a103afe8",
@@ -852,7 +814,7 @@
     "link": "https://www.aviasales.com/search/YVR0103YOW01031?t=PD17723484001772376240000284YVRYOW17723913001772450940001174YOWYYZYVR_da777e4189fc2a40e16a403d61ce7443_17105&search_date=25012026&expected_price_uuid=019bf6b0-a2e4-8030-2b60-09f5a28d4795&expected_price_source=share&expected_price_currency=cad&expected_price=312&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-YOW",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-ottawa-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yvr-yto-322-eaa0c968",
@@ -871,7 +833,7 @@
     "link": "https://www.aviasales.com/search/YVR1409YTO18091?t=F817894259001789453500000280YVRYYZ17897397001789747500000310YYZYVR_19413fbd23eafa7fba74ccd201a013fd_18106&search_date=20012026&expected_price_uuid=019bdbd6-742e-8030-e66c-ca13b0bba9b9&expected_price_source=share&expected_price_currency=cad&expected_price=322&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-YTO",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-yto-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yvr-nyc-341-f8e39ee6",
@@ -890,7 +852,7 @@
     "link": "https://www.aviasales.com/search/YVR0602NYC09021?t=AC17704089001770460980000688YVRYYCYYZLGA17706540001770675600000540LGAYYZYVR_f98cff1f3a2ac1a55e4613e5d19919e8_18934&search_date=23012026&expected_price_uuid=019be9ae-c2f7-8010-ad4c-f2dc17353877&expected_price_source=share&expected_price_currency=cad&expected_price=341&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-NYC",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-nyc-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yvr-aus-352-14430eaf",
@@ -909,7 +871,7 @@
     "link": "https://www.aviasales.com/search/YVR0602AUS10021?t=AS17703576001770395940000519YVRSEAPDXAUS17707379401770768600000631AUSSANSEAYVR_2b7111074a43d4d9774d9642ee6d6821_19867&search_date=20012026&expected_price_uuid=019bdcd0-2b19-8010-2afc-e7a596f0a5e2&expected_price_source=share&expected_price_currency=cad&expected_price=352&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-AUS",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-aus-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yvr-cun-375-dd819b2b",
@@ -928,7 +890,7 @@
     "link": "https://www.aviasales.com/search/YVR2901CUN06021?t=UA17696988001769772300001045YVRLAXIAHCUN17703948001770462000001300CUNDENSFOYVR_b0d07028e6089279081328e7660a94ba_20509&search_date=26012026&expected_price_uuid=019bf8b3-d3e0-8010-6af5-99290e7c220c&expected_price_source=share&expected_price_currency=cad&expected_price=375&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-CUN",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-cancun-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yvr-nyc-398-ca95efde",
@@ -947,7 +909,7 @@
     "link": "https://www.aviasales.com/search/YVR3004NYC03051?t=AC17775756001777621860000591YVRYYCYYZLGA17777915401777827840000785JFKYYZYEGYVR_f62966bef857ee2b593fff18344ed31d_21884&search_date=22012026&expected_price_uuid=019be579-8e79-8030-23be-0729399a956d&expected_price_source=share&expected_price_currency=cad&expected_price=398&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-NYC",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-nyc-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yvr-yto-399-f81f82c5",
@@ -966,7 +928,7 @@
     "link": "https://www.aviasales.com/search/YVR0409YTO19091?t=F817885406001788567900000275YVRYYZ17898477001789855500000310YYZYVR_714a211f32e63d65a600b2300dc09902_22443&search_date=20012026&expected_price_uuid=019bdbd6-54cf-8020-265e-b87319edd878&expected_price_source=share&expected_price_currency=cad&expected_price=399&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-YTO",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-yto-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yvr-yxy-401-7546ff2c",
@@ -985,7 +947,26 @@
     "link": "https://www.aviasales.com/search/YVR1302YXY16021?t=4N17710158001771028100000145YVRYXY17712252001771229700000135YXYYVR_442d9caf3d68a687f11818844063856b_22092&search_date=22012026&expected_price_uuid=019be81e-2d5c-8010-a8d4-4386abd303ce&expected_price_source=share&expected_price_currency=cad&expected_price=401&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-YXY",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-yxy-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
+  },
+  {
+    "id": "yvr-nyc-413-d15ab718",
+    "origin": "Vancouver",
+    "origin_code": "YVR",
+    "destination": "NYC",
+    "destination_code": "NYC",
+    "price": 413,
+    "currency": "CAD",
+    "airline": "PD",
+    "depart_date": "2026-05-08",
+    "return_date": "2026-05-11",
+    "travel_dates": "2026-05-08 to 2026-05-11",
+    "transfers": 1,
+    "source_url": "https://www.aviasales.com/search/YVR0805NYC11051?t=PD17782236001778268300000565YVRYYZLGA17784933001778513040000509LGAYYZYVR_8cbfca4491494864359eff8f58b1f79b_23048&search_date=26012026&expected_price_uuid=019bfc36-c1f3-8020-2383-d5449ca70d17&expected_price_source=share&expected_price_currency=cad&expected_price=413",
+    "link": "https://www.aviasales.com/search/YVR0805NYC11051?t=PD17782236001778268300000565YVRYYZLGA17784933001778513040000509LGAYYZYVR_8cbfca4491494864359eff8f58b1f79b_23048&search_date=26012026&expected_price_uuid=019bfc36-c1f3-8020-2383-d5449ca70d17&expected_price_source=share&expected_price_currency=cad&expected_price=413&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-NYC",
+    "origin_slug": "vancouver-flights",
+    "route_slug": "vancouver-to-nyc-flights",
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yvr-cun-423-137231a2",
@@ -1004,45 +985,26 @@
     "link": "https://www.aviasales.com/search/YVR2502CUN11031?t=F817720622001772094600000360YVRCUN17732196001773236700000405CUNYVR_5faac320f0534936946ea0e68db8ab55_23737&search_date=20012026&expected_price_uuid=019bdc4d-3639-8030-a668-24dfa3158f36&expected_price_source=share&expected_price_currency=cad&expected_price=423&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-CUN",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-cancun-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
-    "id": "yvr-nyc-446-66fc8094",
+    "id": "yvr-yto-466-ce15d057",
     "origin": "Vancouver",
     "origin_code": "YVR",
-    "destination": "NYC",
-    "destination_code": "NYC",
-    "price": 446,
+    "destination": "YTO",
+    "destination_code": "YTO",
+    "price": 466,
     "currency": "CAD",
-    "airline": "PD",
-    "depart_date": "2026-05-08",
-    "return_date": "2026-05-11",
-    "travel_dates": "2026-05-08 to 2026-05-11",
-    "transfers": 1,
-    "source_url": "https://www.aviasales.com/search/YVR0805NYC11051?t=PD17782236001778268300000565YVRYYZLGA17784933001778513040000509LGAYYZYVR_8cbfca4491494864359eff8f58b1f79b_24489&search_date=22012026&expected_price_uuid=019be579-6298-8030-eca0-cd1cd60fae0b&expected_price_source=share&expected_price_currency=cad&expected_price=446",
-    "link": "https://www.aviasales.com/search/YVR0805NYC11051?t=PD17782236001778268300000565YVRYYZLGA17784933001778513040000509LGAYYZYVR_8cbfca4491494864359eff8f58b1f79b_24489&search_date=22012026&expected_price_uuid=019be579-6298-8030-eca0-cd1cd60fae0b&expected_price_source=share&expected_price_currency=cad&expected_price=446&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-NYC",
+    "airline": "F8",
+    "depart_date": "2026-01-27",
+    "return_date": "2026-02-01",
+    "travel_dates": "2026-01-27 to 2026-02-01",
+    "transfers": 0,
+    "source_url": "https://www.aviasales.com/search/YVR2701YTO01021?t=F817694720001769499300000275YVRYYZ17699796001769988300000325YYZYVR_d9105242f09ba4693ee1c3d7d94422ae_26003&search_date=26012026&expected_price_uuid=019bfc84-2e3d-8010-29fe-4f68bb8992e2&expected_price_source=share&expected_price_currency=cad&expected_price=466",
+    "link": "https://www.aviasales.com/search/YVR2701YTO01021?t=F817694720001769499300000275YVRYYZ17699796001769988300000325YYZYVR_d9105242f09ba4693ee1c3d7d94422ae_26003&search_date=26012026&expected_price_uuid=019bfc84-2e3d-8010-29fe-4f68bb8992e2&expected_price_source=share&expected_price_currency=cad&expected_price=466&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-YTO",
     "origin_slug": "vancouver-flights",
-    "route_slug": "vancouver-to-nyc-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
-  },
-  {
-    "id": "yvr-cun-468-58c79525",
-    "origin": "Vancouver",
-    "origin_code": "YVR",
-    "destination": "Cancun",
-    "destination_code": "CUN",
-    "price": 468,
-    "currency": "CAD",
-    "airline": "UA",
-    "depart_date": "2026-01-30",
-    "return_date": "2026-02-06",
-    "travel_dates": "2026-01-30 to 2026-02-06",
-    "transfers": 1,
-    "source_url": "https://www.aviasales.com/search/YVR3001CUN06021?t=UA17697759001769843580000948YVRSFOCUN17704005001770472680001383CUNIAHDENYVR_e64c6598f5eba48e3fd3426364fe162b_26248&search_date=19012026&expected_price_uuid=019bd508-a66e-8030-6f67-38ec16e999f3&expected_price_source=share&expected_price_currency=cad&expected_price=468",
-    "link": "https://www.aviasales.com/search/YVR3001CUN06021?t=UA17697759001769843580000948YVRSFOCUN17704005001770472680001383CUNIAHDENYVR_e64c6598f5eba48e3fd3426364fe162b_26248&search_date=19012026&expected_price_uuid=019bd508-a66e-8030-6f67-38ec16e999f3&expected_price_source=share&expected_price_currency=cad&expected_price=468&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-CUN",
-    "origin_slug": "vancouver-flights",
-    "route_slug": "vancouver-to-cancun-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "route_slug": "vancouver-to-yto-flights",
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yvr-nyc-473-cdb27deb",
@@ -1061,7 +1023,7 @@
     "link": "https://www.aviasales.com/search/YVR2701NYC04021?t=UA17695260001769583840000784YVRLAXEWR17702047801770228180000570EWRDENYVR_7446e4ee7e83ac07f558cb986fd13832_26704&search_date=21012026&expected_price_uuid=019bde0e-1a5e-8020-2150-a4933e9325f0&expected_price_source=share&expected_price_currency=cad&expected_price=473&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-NYC",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-nyc-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yvr-aus-474-19a4bd93",
@@ -1080,7 +1042,7 @@
     "link": "https://www.aviasales.com/search/YVR3001AUS02021?t=PD17697564001769803560000666YVRSFOPHXAUS17700394201770076740000742AUSPHXYVR_69a51c879454d36607a1b3e4007ea524_26105&search_date=23012026&expected_price_uuid=019bec17-c3ce-8010-20da-563ab007def1&expected_price_source=share&expected_price_currency=cad&expected_price=474&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-AUS",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-aus-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yvr-nyc-484-b4a45335",
@@ -1099,7 +1061,45 @@
     "link": "https://www.aviasales.com/search/YVR2704NYC10051?t=UA17773020001777353180000673YVRLAXEWR17783963401778432640000785JFKYYZYEGYVR_ccb3d56610ff5c5594c241576785bafb_26566&search_date=22012026&expected_price_uuid=019be6cc-e51d-8010-2d05-d5cafd5373ec&expected_price_source=share&expected_price_currency=cad&expected_price=483&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-NYC",
     "origin_slug": "vancouver-flights",
     "route_slug": "vancouver-to-nyc-flights",
-    "last_seen": "2026-01-26T06:35:34.664Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
+  },
+  {
+    "id": "yvr-puj-497-bf9c8cfc",
+    "origin": "Vancouver",
+    "origin_code": "YVR",
+    "destination": "Punta Cana",
+    "destination_code": "PUJ",
+    "price": 497,
+    "currency": "CAD",
+    "airline": "UA",
+    "depart_date": "2026-02-02",
+    "return_date": "2026-02-10",
+    "travel_dates": "2026-02-02 to 2026-02-10",
+    "transfers": 1,
+    "source_url": "https://www.aviasales.com/search/YVR0202PUJ10021?t=UA17700210001770142680001788YVRDENPUJ17707323001770818280001673PUJDENYVR_29d9dba08b164723e2d642ecc6e6c784_28055&search_date=20012026&expected_price_uuid=019bddc2-8b7a-8010-6500-60279f88d545&expected_price_source=share&expected_price_currency=cad&expected_price=497",
+    "link": "https://www.aviasales.com/search/YVR0202PUJ10021?t=UA17700210001770142680001788YVRDENPUJ17707323001770818280001673PUJDENYVR_29d9dba08b164723e2d642ecc6e6c784_28055&search_date=20012026&expected_price_uuid=019bddc2-8b7a-8010-6500-60279f88d545&expected_price_source=share&expected_price_currency=cad&expected_price=497&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-PUJ",
+    "origin_slug": "vancouver-flights",
+    "route_slug": "vancouver-to-punta-cana-flights",
+    "last_seen": "2026-01-27T06:34:16.401Z"
+  },
+  {
+    "id": "yvr-aus-524-5208b06b",
+    "origin": "Vancouver",
+    "origin_code": "YVR",
+    "destination": "AUS",
+    "destination_code": "AUS",
+    "price": 524,
+    "currency": "CAD",
+    "airline": "F8",
+    "depart_date": "2026-01-29",
+    "return_date": "2026-02-01",
+    "travel_dates": "2026-01-29 to 2026-02-01",
+    "transfers": 2,
+    "source_url": "https://www.aviasales.com/search/YVR2901AUS01021?t=PD17697012001769803560001586YVRLASPHXAUS17699515201770076740002207AUSPHXYVR_263fa12864412c3720f7ce9a7262f0f0_28881&search_date=23012026&expected_price_uuid=019bec18-3f21-8010-a4ec-af9cec248f0b&expected_price_source=share&expected_price_currency=cad&expected_price=524",
+    "link": "https://www.aviasales.com/search/YVR2901AUS01021?t=PD17697012001769803560001586YVRLASPHXAUS17699515201770076740002207AUSPHXYVR_263fa12864412c3720f7ce9a7262f0f0_28881&search_date=23012026&expected_price_uuid=019bec18-3f21-8010-a4ec-af9cec248f0b&expected_price_source=share&expected_price_currency=cad&expected_price=524&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YVR-AUS",
+    "origin_slug": "vancouver-flights",
+    "route_slug": "vancouver-to-aus-flights",
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yyz-yow-149-0b503788",
@@ -1118,7 +1118,7 @@
     "link": "https://www.aviasales.com/search/YYZ0403YOW05031?t=WS17726670001772671140000069YYZYOW17726892001772694060000081YOWYYZ_46fbfccf26bb8e588024b08840082993_8382&search_date=21012026&expected_price_uuid=019be04a-e0fa-8030-a4dc-dae8c5d2d254&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=149&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YOW",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-ottawa-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
     "id": "yyz-yvr-179-75b7ba7c",
@@ -1137,7 +1137,26 @@
     "link": "https://www.aviasales.com/search/YYZ2004YVR30041?t=F817766708001776678600000310YYZYVR17775078001777535400000280YVRYYZ_7fba057d779b3c7d39e03cbc6534f897_9848&search_date=22012026&expected_price_uuid=019be743-d8ed-8030-a11a-d144bbc0e22e&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=179&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YVR",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-vancouver-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
+  },
+  {
+    "id": "yyz-yyc-202-1d907df5",
+    "origin": "Toronto",
+    "origin_code": "YYZ",
+    "destination": "Calgary",
+    "destination_code": "YYC",
+    "price": 202,
+    "currency": "CAD",
+    "airline": "WS",
+    "depart_date": "2026-05-31",
+    "return_date": "2026-06-03",
+    "travel_dates": "2026-05-31 to 2026-06-03",
+    "transfers": 0,
+    "source_url": "https://www.aviasales.com/search/YYZ3105YYC03061?t=WS17802108001780219200000260YYZYYC17804484001780469700000235YYCYYZ_4d2054c8073b45f54f1115e15b2cbfe4_11245&search_date=26012026&expected_price_uuid=019bfbad-c448-8030-6766-f89fce9d7f50&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=201",
+    "link": "https://www.aviasales.com/search/YYZ3105YYC03061?t=WS17802108001780219200000260YYZYYC17804484001780469700000235YYCYYZ_4d2054c8073b45f54f1115e15b2cbfe4_11245&search_date=26012026&expected_price_uuid=019bfbad-c448-8030-6766-f89fce9d7f50&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=201&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YYC",
+    "origin_slug": "toronto-flights",
+    "route_slug": "toronto-to-calgary-flights",
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
     "id": "yyz-yea-204-660df679",
@@ -1156,7 +1175,7 @@
     "link": "https://www.aviasales.com/search/YYZ2205YEA24051?t=PD17794413001779449400000255YYZYEG17796666001779687240000224YEGYYZ_7466be573b40fabc0bb36610d9797ec7_11271&search_date=23012026&expected_price_uuid=019bea2a-1849-8030-e2f4-d581693ada69&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=204&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YEA",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-yea-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
     "id": "yyz-yvr-208-aee9d360",
@@ -1175,7 +1194,26 @@
     "link": "https://www.aviasales.com/search/YYZ2702YVR07031?t=F817722260001772234700000325YYZYVR17729226001772953800000280YVRYYZ_d8b99d9a161c908114f4a25845765cad_11710&search_date=21012026&expected_price_uuid=019bdefe-7680-8010-ac81-4f2e82a508c1&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=208&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YVR",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-vancouver-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
+  },
+  {
+    "id": "yyz-yyc-209-d77f2ddd",
+    "origin": "Toronto",
+    "origin_code": "YYZ",
+    "destination": "Calgary",
+    "destination_code": "YYC",
+    "price": 209,
+    "currency": "CAD",
+    "airline": "WS",
+    "depart_date": "2026-05-31",
+    "return_date": "2026-05-31",
+    "travel_dates": "2026-05-31 to 2026-05-31",
+    "transfers": 0,
+    "source_url": "https://www.aviasales.com/search/YYZ3105YYC31051?t=WS17802081001780216500000260YYZYYC17802255001780261800000485YYCYEGYYZ_7ae8cffbd7f2f17237c4be2d1c47ea37_11658&search_date=26012026&expected_price_uuid=019bfbad-9625-8030-afe2-871daf6b5cb9&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=209",
+    "link": "https://www.aviasales.com/search/YYZ3105YYC31051?t=WS17802081001780216500000260YYZYYC17802255001780261800000485YYCYEGYYZ_7ae8cffbd7f2f17237c4be2d1c47ea37_11658&search_date=26012026&expected_price_uuid=019bfbad-9625-8030-afe2-871daf6b5cb9&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=209&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YYC",
+    "origin_slug": "toronto-flights",
+    "route_slug": "toronto-to-calgary-flights",
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
     "id": "yyz-yvr-215-9134a824",
@@ -1194,7 +1232,26 @@
     "link": "https://www.aviasales.com/search/YYZ0503YVR12031?t=F817726973001772706000000325YYZYVR17732742001773301800000280YVRYYZ_c12339198d142788291bd77139212fe3_11812&search_date=22012026&expected_price_uuid=019be6e1-a299-8010-27a0-0fdd7a0cdb03&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=215&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YVR",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-vancouver-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
+  },
+  {
+    "id": "yyz-yyc-217-33b5bc99",
+    "origin": "Toronto",
+    "origin_code": "YYZ",
+    "destination": "Calgary",
+    "destination_code": "YYC",
+    "price": 217,
+    "currency": "CAD",
+    "airline": "WS",
+    "depart_date": "2026-05-31",
+    "return_date": "2026-06-13",
+    "travel_dates": "2026-05-31 to 2026-06-13",
+    "transfers": 0,
+    "source_url": "https://www.aviasales.com/search/YYZ3105YYC13061?t=WS17802108001780219200000260YYZYYC17813745001781395800000235YYCYYZ_b9378d59c9d0233e9b0e0029afc934c6_12092&search_date=26012026&expected_price_uuid=019bfbad-6260-8020-e58a-28d7d5612473&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=217",
+    "link": "https://www.aviasales.com/search/YYZ3105YYC13061?t=WS17802108001780219200000260YYZYYC17813745001781395800000235YYCYYZ_b9378d59c9d0233e9b0e0029afc934c6_12092&search_date=26012026&expected_price_uuid=019bfbad-6260-8020-e58a-28d7d5612473&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=217&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YYC",
+    "origin_slug": "toronto-flights",
+    "route_slug": "toronto-to-calgary-flights",
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
     "id": "yyz-ywg-224-f2326ad6",
@@ -1213,7 +1270,45 @@
     "link": "https://www.aviasales.com/search/YYZ2701YWG03021?t=PD17694981001769512380000298YYZYOWYWG17701491001770161700000150YWGYYZ_00b134805e60f1b040f49113021222c9_12621&search_date=20012026&expected_price_uuid=019bdb6d-c356-8030-eddb-758d8a007c00&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=224&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YWG",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-winnipeg-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
+  },
+  {
+    "id": "yyz-fll-228-a8438f16",
+    "origin": "Toronto",
+    "origin_code": "YYZ",
+    "destination": "FLL",
+    "destination_code": "FLL",
+    "price": 228,
+    "currency": "CAD",
+    "airline": "F8",
+    "depart_date": "2026-02-22",
+    "return_date": "2026-02-26",
+    "travel_dates": "2026-02-22 to 2026-02-26",
+    "transfers": 0,
+    "source_url": "https://www.aviasales.com/search/YYZ2202FLL26021?t=F817717547001771767000000205YYZFLL17721240001772135700000195FLLYYZ_2ca3eece1fbddde5cb0bd12ad26e2408_12702&search_date=26012026&expected_price_uuid=019bfa77-f7ae-8010-afff-833c955de467&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=228",
+    "link": "https://www.aviasales.com/search/YYZ2202FLL26021?t=F817717547001771767000000205YYZFLL17721240001772135700000195FLLYYZ_2ca3eece1fbddde5cb0bd12ad26e2408_12702&search_date=26012026&expected_price_uuid=019bfa77-f7ae-8010-afff-833c955de467&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=228&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-FLL",
+    "origin_slug": "toronto-flights",
+    "route_slug": "toronto-to-fll-flights",
+    "last_seen": "2026-01-27T06:34:16.400Z"
+  },
+  {
+    "id": "yyz-fll-228-e5f1c295",
+    "origin": "Toronto",
+    "origin_code": "YYZ",
+    "destination": "FLL",
+    "destination_code": "FLL",
+    "price": 228,
+    "currency": "CAD",
+    "airline": "F8",
+    "depart_date": "2026-02-23",
+    "return_date": "2026-02-26",
+    "travel_dates": "2026-02-23 to 2026-02-26",
+    "transfers": 0,
+    "source_url": "https://www.aviasales.com/search/YYZ2302FLL26021?t=F817718612001771873500000205YYZFLL17721240001772135700000195FLLYYZ_26fc32696082bfbdc438614d75b70845_12702&search_date=26012026&expected_price_uuid=019bfa77-f084-8010-a7ce-6d2dde4d6868&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=228",
+    "link": "https://www.aviasales.com/search/YYZ2302FLL26021?t=F817718612001771873500000205YYZFLL17721240001772135700000195FLLYYZ_26fc32696082bfbdc438614d75b70845_12702&search_date=26012026&expected_price_uuid=019bfa77-f084-8010-a7ce-6d2dde4d6868&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=228&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-FLL",
+    "origin_slug": "toronto-flights",
+    "route_slug": "toronto-to-fll-flights",
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
     "id": "yyz-yvr-233-667a4f03",
@@ -1232,45 +1327,7 @@
     "link": "https://www.aviasales.com/search/YYZ1102YVR16021?t=F817707965001770805200000325YYZYVR17712006001771228200000280YVRYYZ_5099a991b250f3209f70dc1ab3cb1576_13147&search_date=21012026&expected_price_uuid=019bde5a-97d0-8010-6461-8414fb2c926e&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=233&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YVR",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-vancouver-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
-  },
-  {
-    "id": "yyz-las-234-b79e1937",
-    "origin": "Toronto",
-    "origin_code": "YYZ",
-    "destination": "LAS",
-    "destination_code": "LAS",
-    "price": 234,
-    "currency": "CAD",
-    "airline": "AA",
-    "depart_date": "2026-03-06",
-    "return_date": "2026-03-14",
-    "travel_dates": "2026-03-06 to 2026-03-14",
-    "transfers": 0,
-    "source_url": "https://www.aviasales.com/search/YYZ0603LAS14031?t=PD17728269001772834520000307YYZLAS17735295001773555600000255LASYYZ_31192da6d7d20213c9ad9570929cbeec_12795&search_date=26012026&expected_price_uuid=019bf7ec-fdb5-8010-6d96-0a3b06d78fb1&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=234",
-    "link": "https://www.aviasales.com/search/YYZ0603LAS14031?t=PD17728269001772834520000307YYZLAS17735295001773555600000255LASYYZ_31192da6d7d20213c9ad9570929cbeec_12795&search_date=26012026&expected_price_uuid=019bf7ec-fdb5-8010-6d96-0a3b06d78fb1&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=234&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-LAS",
-    "origin_slug": "toronto-flights",
-    "route_slug": "toronto-to-las-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
-  },
-  {
-    "id": "yyz-las-234-bf169bf5",
-    "origin": "Toronto",
-    "origin_code": "YYZ",
-    "destination": "LAS",
-    "destination_code": "LAS",
-    "price": 234,
-    "currency": "CAD",
-    "airline": "AA",
-    "depart_date": "2026-03-05",
-    "return_date": "2026-03-14",
-    "travel_dates": "2026-03-05 to 2026-03-14",
-    "transfers": 0,
-    "source_url": "https://www.aviasales.com/search/YYZ0503LAS14031?t=PD17727429001772750520000307YYZLAS17735295001773555600000255LASYYZ_38f76205a7a5446a012ff4f825b001b6_12795&search_date=26012026&expected_price_uuid=019bf7ed-7a3c-8010-2409-f807b46c9f55&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=234",
-    "link": "https://www.aviasales.com/search/YYZ0503LAS14031?t=PD17727429001772750520000307YYZLAS17735295001773555600000255LASYYZ_38f76205a7a5446a012ff4f825b001b6_12795&search_date=26012026&expected_price_uuid=019bf7ed-7a3c-8010-2409-f807b46c9f55&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=234&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-LAS",
-    "origin_slug": "toronto-flights",
-    "route_slug": "toronto-to-las-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
     "id": "yyz-yyc-234-875af29e",
@@ -1289,45 +1346,64 @@
     "link": "https://www.aviasales.com/search/YYZ0506YYC08061?t=PD17806857001780694040000259YYZYYC17809020001780938540000489YYCYOWYYZ_55f6f3151b709535dfee785d376bbc5e_12906&search_date=22012026&expected_price_uuid=019be650-bc16-8010-209b-f503bf8711f0&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=234&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YYC",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-calgary-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
-    "id": "yyz-las-237-476421b6",
+    "id": "yyz-las-234-b79e1937",
     "origin": "Toronto",
     "origin_code": "YYZ",
     "destination": "LAS",
     "destination_code": "LAS",
-    "price": 237,
-    "currency": "CAD",
-    "airline": "WS",
-    "depart_date": "2026-02-27",
-    "return_date": "2026-03-03",
-    "travel_dates": "2026-02-27 to 2026-03-03",
-    "transfers": 0,
-    "source_url": "https://www.aviasales.com/search/YYZ2702LAS03031?t=WS17722224001772230320000312YYZLAS17725647001772604780000488LASYYCYYZ_8774d5734d3cd5811d05f362338b5227_13289&search_date=20012026&expected_price_uuid=019bd93f-aabd-8010-a2a5-5b2c66462cd2&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=237",
-    "link": "https://www.aviasales.com/search/YYZ2702LAS03031?t=WS17722224001772230320000312YYZLAS17725647001772604780000488LASYYCYYZ_8774d5734d3cd5811d05f362338b5227_13289&search_date=20012026&expected_price_uuid=019bd93f-aabd-8010-a2a5-5b2c66462cd2&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=237&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-LAS",
-    "origin_slug": "toronto-flights",
-    "route_slug": "toronto-to-las-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
-  },
-  {
-    "id": "yyz-las-241-8af2d0c1",
-    "origin": "Toronto",
-    "origin_code": "YYZ",
-    "destination": "LAS",
-    "destination_code": "LAS",
-    "price": 241,
+    "price": 234,
     "currency": "CAD",
     "airline": "AA",
-    "depart_date": "2026-03-07",
-    "return_date": "2026-03-10",
-    "travel_dates": "2026-03-07 to 2026-03-10",
+    "depart_date": "2026-03-06",
+    "return_date": "2026-03-14",
+    "travel_dates": "2026-03-06 to 2026-03-14",
     "transfers": 0,
-    "source_url": "https://www.aviasales.com/search/YYZ0703LAS10031?t=PD17729133001772920920000307YYZLAS17731695001773209580000488LASYYCYYZ_3276b45d7297a80082d2aa8a5b8ca2f3_13504&search_date=20012026&expected_price_uuid=019bd93e-3aa4-8010-2ea2-7fb3102052a3&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=241",
-    "link": "https://www.aviasales.com/search/YYZ0703LAS10031?t=PD17729133001772920920000307YYZLAS17731695001773209580000488LASYYCYYZ_3276b45d7297a80082d2aa8a5b8ca2f3_13504&search_date=20012026&expected_price_uuid=019bd93e-3aa4-8010-2ea2-7fb3102052a3&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=241&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-LAS",
+    "source_url": "https://www.aviasales.com/search/YYZ0603LAS14031?t=PD17728269001772834520000307YYZLAS17735295001773555600000255LASYYZ_31192da6d7d20213c9ad9570929cbeec_12795&search_date=26012026&expected_price_uuid=019bf7ec-fdb5-8010-6d96-0a3b06d78fb1&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=234",
+    "link": "https://www.aviasales.com/search/YYZ0603LAS14031?t=PD17728269001772834520000307YYZLAS17735295001773555600000255LASYYZ_31192da6d7d20213c9ad9570929cbeec_12795&search_date=26012026&expected_price_uuid=019bf7ec-fdb5-8010-6d96-0a3b06d78fb1&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=234&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-LAS",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-las-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
+  },
+  {
+    "id": "yyz-las-234-bf169bf5",
+    "origin": "Toronto",
+    "origin_code": "YYZ",
+    "destination": "LAS",
+    "destination_code": "LAS",
+    "price": 234,
+    "currency": "CAD",
+    "airline": "AA",
+    "depart_date": "2026-03-05",
+    "return_date": "2026-03-14",
+    "travel_dates": "2026-03-05 to 2026-03-14",
+    "transfers": 0,
+    "source_url": "https://www.aviasales.com/search/YYZ0503LAS14031?t=PD17727429001772750520000307YYZLAS17735295001773555600000255LASYYZ_38f76205a7a5446a012ff4f825b001b6_12795&search_date=26012026&expected_price_uuid=019bf7ed-7a3c-8010-2409-f807b46c9f55&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=234",
+    "link": "https://www.aviasales.com/search/YYZ0503LAS14031?t=PD17727429001772750520000307YYZLAS17735295001773555600000255LASYYZ_38f76205a7a5446a012ff4f825b001b6_12795&search_date=26012026&expected_price_uuid=019bf7ed-7a3c-8010-2409-f807b46c9f55&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=234&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-LAS",
+    "origin_slug": "toronto-flights",
+    "route_slug": "toronto-to-las-flights",
+    "last_seen": "2026-01-27T06:34:16.400Z"
+  },
+  {
+    "id": "yyz-fll-240-dfe43ef6",
+    "origin": "Toronto",
+    "origin_code": "YYZ",
+    "destination": "FLL",
+    "destination_code": "FLL",
+    "price": 240,
+    "currency": "CAD",
+    "airline": "F8",
+    "depart_date": "2026-02-21",
+    "return_date": "2026-02-26",
+    "travel_dates": "2026-02-21 to 2026-02-26",
+    "transfers": 0,
+    "source_url": "https://www.aviasales.com/search/YYZ2102FLL26021?t=F817716884001771700700000205YYZFLL17721240001772135700000195FLLYYZ_558ee6588ff6153eaf280af1addc982d_13335&search_date=26012026&expected_price_uuid=019bfa77-f4a4-8010-23cf-15cc711ef0dd&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=240",
+    "link": "https://www.aviasales.com/search/YYZ2102FLL26021?t=F817716884001771700700000205YYZFLL17721240001772135700000195FLLYYZ_558ee6588ff6153eaf280af1addc982d_13335&search_date=26012026&expected_price_uuid=019bfa77-f4a4-8010-23cf-15cc711ef0dd&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=240&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-FLL",
+    "origin_slug": "toronto-flights",
+    "route_slug": "toronto-to-fll-flights",
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
     "id": "yyz-vra-252-9acfabfe",
@@ -1346,7 +1422,7 @@
     "link": "https://www.aviasales.com/search/YYZ2403VRA03041?t=WS17743461001774359540000224YYZVRA17752488001775261820000217VRAYYZ_34376a15c79cd545cd522bec7274ee5f_14065&search_date=22012026&expected_price_uuid=019be355-d341-8010-65f9-8034b84e43be&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=252&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-VRA",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-vra-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
     "id": "yyz-yvr-253-50ce2141",
@@ -1365,7 +1441,7 @@
     "link": "https://www.aviasales.com/search/YYZ2309YVR11101?t=F817901981001790205900000310YYZYVR17917374001791764700000275YVRYYZ_6999f1d81e353a0494be38c6cec8b7a4_13884&search_date=22012026&expected_price_uuid=019be6e4-116a-8020-e1b1-c8fa1c95ec72&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=253&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YVR",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-vancouver-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.400Z"
   },
   {
     "id": "yyz-yvr-253-cbbcb01d",
@@ -1384,45 +1460,64 @@
     "link": "https://www.aviasales.com/search/YYZ1709YVR11101?t=F817896749001789682700000310YYZYVR17917374001791764700000275YVRYYZ_2ee72f75a1e3ede4c3770aeb3f9600c1_13893&search_date=22012026&expected_price_uuid=019be6e3-f006-8020-a929-6e167ee633e0&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=253&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YVR",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-vancouver-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
-    "id": "yyz-las-255-354eec09",
+    "id": "yyz-chi-255-6ca816d3",
+    "origin": "Toronto",
+    "origin_code": "YYZ",
+    "destination": "CHI",
+    "destination_code": "CHI",
+    "price": 255,
+    "currency": "CAD",
+    "airline": "AC",
+    "depart_date": "2026-04-03",
+    "return_date": "2026-04-12",
+    "travel_dates": "2026-04-03 to 2026-04-12",
+    "transfers": 0,
+    "source_url": "https://www.aviasales.com/search/YYZ0304CHI12041?t=AC17752041001775207400000115YYZORD17760024001776012120000102ORDYYZ_254ea6ac401d0ae57ef986be4ecd8058_14227&search_date=26012026&expected_price_uuid=019bfca0-cd38-8030-acb1-da71c55bd3da&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=255",
+    "link": "https://www.aviasales.com/search/YYZ0304CHI12041?t=AC17752041001775207400000115YYZORD17760024001776012120000102ORDYYZ_254ea6ac401d0ae57ef986be4ecd8058_14227&search_date=26012026&expected_price_uuid=019bfca0-cd38-8030-acb1-da71c55bd3da&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=255&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-CHI",
+    "origin_slug": "toronto-flights",
+    "route_slug": "toronto-to-chi-flights",
+    "last_seen": "2026-01-27T06:34:16.401Z"
+  },
+  {
+    "id": "yyz-chi-255-b088eff2",
+    "origin": "Toronto",
+    "origin_code": "YYZ",
+    "destination": "CHI",
+    "destination_code": "CHI",
+    "price": 255,
+    "currency": "CAD",
+    "airline": "AC",
+    "depart_date": "2026-04-15",
+    "return_date": "2026-04-15",
+    "travel_dates": "2026-04-15 to 2026-04-15",
+    "transfers": 0,
+    "source_url": "https://www.aviasales.com/search/YYZ1504CHI15041?t=AC17762409001776244200000115YYZORD17762616001776271320000102ORDYYZ_d8401ebac4f7d05405ca7c620e41ef0d_14227&search_date=26012026&expected_price_uuid=019bfc9e-f448-8030-6246-ae662b4dcaf3&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=255",
+    "link": "https://www.aviasales.com/search/YYZ1504CHI15041?t=AC17762409001776244200000115YYZORD17762616001776271320000102ORDYYZ_d8401ebac4f7d05405ca7c620e41ef0d_14227&search_date=26012026&expected_price_uuid=019bfc9e-f448-8030-6246-ae662b4dcaf3&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=255&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-CHI",
+    "origin_slug": "toronto-flights",
+    "route_slug": "toronto-to-chi-flights",
+    "last_seen": "2026-01-27T06:34:16.401Z"
+  },
+  {
+    "id": "yyz-las-256-df31533a",
     "origin": "Toronto",
     "origin_code": "YYZ",
     "destination": "LAS",
     "destination_code": "LAS",
-    "price": 255,
+    "price": 256,
     "currency": "CAD",
     "airline": "AA",
     "depart_date": "2026-03-05",
     "return_date": "2026-03-10",
     "travel_dates": "2026-03-05 to 2026-03-10",
     "transfers": 0,
-    "source_url": "https://www.aviasales.com/search/YYZ0503LAS10031?t=PD17727429001772750520000307YYZLAS17731482001773209580000843LASYVRYYCYYZ_c1e4038d07a4ed077ef2876f7711347b_13981&search_date=26012026&expected_price_uuid=019bf7f0-dc79-8010-ad13-a954c560879b&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=255",
-    "link": "https://www.aviasales.com/search/YYZ0503LAS10031?t=PD17727429001772750520000307YYZLAS17731482001773209580000843LASYVRYYCYYZ_c1e4038d07a4ed077ef2876f7711347b_13981&search_date=26012026&expected_price_uuid=019bf7f0-dc79-8010-ad13-a954c560879b&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=255&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-LAS",
+    "source_url": "https://www.aviasales.com/search/YYZ0503LAS10031?t=PD17727429001772750520000307YYZLAS17731482001773209580000843LASYVRYYCYYZ_c1e4038d07a4ed077ef2876f7711347b_13981&search_date=26012026&expected_price_uuid=019bf7f0-dc79-8010-ad13-a954c560879b&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=256",
+    "link": "https://www.aviasales.com/search/YYZ0503LAS10031?t=PD17727429001772750520000307YYZLAS17731482001773209580000843LASYVRYYCYYZ_c1e4038d07a4ed077ef2876f7711347b_13981&search_date=26012026&expected_price_uuid=019bf7f0-dc79-8010-ad13-a954c560879b&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=256&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-LAS",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-las-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
-  },
-  {
-    "id": "yyz-yvr-257-d1644e25",
-    "origin": "Toronto",
-    "origin_code": "YYZ",
-    "destination": "Vancouver",
-    "destination_code": "YVR",
-    "price": 257,
-    "currency": "CAD",
-    "airline": "F8",
-    "depart_date": "2026-04-15",
-    "return_date": "2026-05-13",
-    "travel_dates": "2026-04-15 to 2026-05-13",
-    "transfers": 0,
-    "source_url": "https://www.aviasales.com/search/YYZ1504YVR13051?t=F817762388001776246600000310YYZYVR17786616001778709600000620YVRYULYYZ_89fffb6e237bfd5d766fd5018179ed37_14425&search_date=19012026&expected_price_uuid=019bd556-967a-8020-a81d-7fa52ceb0eaf&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=257",
-    "link": "https://www.aviasales.com/search/YYZ1504YVR13051?t=F817762388001776246600000310YYZYVR17786616001778709600000620YVRYULYYZ_89fffb6e237bfd5d766fd5018179ed37_14425&search_date=19012026&expected_price_uuid=019bd556-967a-8020-a81d-7fa52ceb0eaf&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=257&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YVR",
-    "origin_slug": "toronto-flights",
-    "route_slug": "toronto-to-vancouver-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yyz-chi-258-aaf7b63b",
@@ -1441,45 +1536,26 @@
     "link": "https://www.aviasales.com/search/YYZ2505CHI29051?t=AC17797335001779737100000120YYZORD17800860001780095780000103ORDYYZ_f0ccc59c374fe4e9e0f9d815479ab037_14192&search_date=23012026&expected_price_uuid=019becdd-e2b8-8010-6034-4d415d9f1a28&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=258&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-CHI",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-chi-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
-    "id": "yyz-chi-259-02b4e82d",
+    "id": "yyz-yyt-263-062ef8e6",
     "origin": "Toronto",
     "origin_code": "YYZ",
-    "destination": "CHI",
-    "destination_code": "CHI",
-    "price": 259,
+    "destination": "YYT",
+    "destination_code": "YYT",
+    "price": 263,
     "currency": "CAD",
-    "airline": "UA",
-    "depart_date": "2026-04-03",
-    "return_date": "2026-04-12",
-    "travel_dates": "2026-04-03 to 2026-04-12",
+    "airline": "WS",
+    "depart_date": "2026-04-29",
+    "return_date": "2026-06-05",
+    "travel_dates": "2026-04-29 to 2026-06-05",
     "transfers": 0,
-    "source_url": "https://www.aviasales.com/search/YYZ0304CHI12041?t=UA17752062001775209800000120YYZORD17760024001776012120000102ORDYYZ_97811af7ecf654548554ffd853c5a5aa_14282&search_date=23012026&expected_price_uuid=019bed1d-dfae-8030-a876-dc8d43cb4b09&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=259",
-    "link": "https://www.aviasales.com/search/YYZ0304CHI12041?t=UA17752062001775209800000120YYZORD17760024001776012120000102ORDYYZ_97811af7ecf654548554ffd853c5a5aa_14282&search_date=23012026&expected_price_uuid=019bed1d-dfae-8030-a876-dc8d43cb4b09&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=259&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-CHI",
+    "source_url": "https://www.aviasales.com/search/YYZ2904YYT05061?t=WS17774868001777503300000185YYZYYT17806752001780696800000450YYTYHZYULYYZ_7b58e2131feb2b8d68e518db7c2f74ca_14649&search_date=26012026&expected_price_uuid=019bfb19-3ec7-8030-e0ec-2856a13dc33f&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=263",
+    "link": "https://www.aviasales.com/search/YYZ2904YYT05061?t=WS17774868001777503300000185YYZYYT17806752001780696800000450YYTYHZYULYYZ_7b58e2131feb2b8d68e518db7c2f74ca_14649&search_date=26012026&expected_price_uuid=019bfb19-3ec7-8030-e0ec-2856a13dc33f&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=263&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YYT",
     "origin_slug": "toronto-flights",
-    "route_slug": "toronto-to-chi-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
-  },
-  {
-    "id": "yyz-chi-260-1fbf685e",
-    "origin": "Toronto",
-    "origin_code": "YYZ",
-    "destination": "CHI",
-    "destination_code": "CHI",
-    "price": 260,
-    "currency": "CAD",
-    "airline": "AC",
-    "depart_date": "2026-04-15",
-    "return_date": "2026-04-15",
-    "travel_dates": "2026-04-15 to 2026-04-15",
-    "transfers": 0,
-    "source_url": "https://www.aviasales.com/search/YYZ1504CHI15041?t=AC17762409001776244200000115YYZORD17762697001776279420000102ORDYYZ_1c679c2e40303c11eb17d5ca088ea556_14202&search_date=25012026&expected_price_uuid=019bf772-b02c-8030-6c99-3cbf40833dc0&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=260",
-    "link": "https://www.aviasales.com/search/YYZ1504CHI15041?t=AC17762409001776244200000115YYZORD17762697001776279420000102ORDYYZ_1c679c2e40303c11eb17d5ca088ea556_14202&search_date=25012026&expected_price_uuid=019bf772-b02c-8030-6c99-3cbf40833dc0&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=260&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-CHI",
-    "origin_slug": "toronto-flights",
-    "route_slug": "toronto-to-chi-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "route_slug": "toronto-to-yyt-flights",
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yyz-ywg-265-e8264ad2",
@@ -1498,26 +1574,26 @@
     "link": "https://www.aviasales.com/search/YYZ1602YWG19021?t=WS17712819001771316820000642YYZYQRYWG17715324001771545300000155YWGYYZ_ebaed0f7c996526d73030e2904431f51_14714&search_date=23012026&expected_price_uuid=019be8d7-9ee6-8010-a9db-614481d8d01b&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=265&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YWG",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-winnipeg-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
-    "id": "yyz-las-267-b4b24c58",
+    "id": "yyz-las-268-573dc6d7",
     "origin": "Toronto",
     "origin_code": "YYZ",
     "destination": "LAS",
     "destination_code": "LAS",
-    "price": 267,
+    "price": 268,
     "currency": "CAD",
     "airline": "AC",
     "depart_date": "2026-03-05",
     "return_date": "2026-03-09",
     "travel_dates": "2026-03-05 to 2026-03-09",
     "transfers": 0,
-    "source_url": "https://www.aviasales.com/search/YYZ0503LAS09031?t=AC17727423001772749860000306YYZLAS17730778801773136680000800LASORDYYZ_0d7b34b47d280183f1b48de04d019584_14630&search_date=26012026&expected_price_uuid=019bf7f0-0aa8-8010-66c9-559fafb8b0fb&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=267",
-    "link": "https://www.aviasales.com/search/YYZ0503LAS09031?t=AC17727423001772749860000306YYZLAS17730778801773136680000800LASORDYYZ_0d7b34b47d280183f1b48de04d019584_14630&search_date=26012026&expected_price_uuid=019bf7f0-0aa8-8010-66c9-559fafb8b0fb&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=267&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-LAS",
+    "source_url": "https://www.aviasales.com/search/YYZ0503LAS09031?t=AC17727423001772749860000306YYZLAS17730778801773136680000800LASORDYYZ_0d7b34b47d280183f1b48de04d019584_14630&search_date=26012026&expected_price_uuid=019bf7f0-0aa8-8010-66c9-559fafb8b0fb&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=268",
+    "link": "https://www.aviasales.com/search/YYZ0503LAS09031?t=AC17727423001772749860000306YYZLAS17730778801773136680000800LASORDYYZ_0d7b34b47d280183f1b48de04d019584_14630&search_date=26012026&expected_price_uuid=019bf7f0-0aa8-8010-66c9-559fafb8b0fb&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=268&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-LAS",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-las-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yyz-tpa-272-401292c2",
@@ -1536,7 +1612,7 @@
     "link": "https://www.aviasales.com/search/YYZ0903TPA14031?t=UA17730852001773096120000182YYZTPA17735133601773568680000922TPAORDYYZ_882ae730f0933e982e91dda415f847e5_14981&search_date=25012026&expected_price_uuid=019bf38e-533f-8010-6a1b-655cf81a63de&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=272&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-TPA",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-tpa-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yyz-vra-272-a68fc784",
@@ -1555,7 +1631,7 @@
     "link": "https://www.aviasales.com/search/YYZ0602VRA27021?t=WS17703936001770406740000219YYZVRA17722248001772237820000217VRAYYZ_e5924df8a407bf4a60826ff0d1076c8a_14973&search_date=24012026&expected_price_uuid=019beff0-f5ad-8030-668a-0644450ed3ae&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=272&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-VRA",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-vra-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
     "id": "yyz-yvr-273-f5ca956e",
@@ -1574,101 +1650,25 @@
     "link": "https://www.aviasales.com/search/YYZ0204YVR05041?t=WS17751681001775176680000323YYZYVR17753478001775375400000280YVRYYZ_1241a8433404d9c1fd85e8b81fd11827_14992&search_date=24012026&expected_price_uuid=019bf271-0ca7-8010-a694-18ac7bf7556e&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=273&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YVR",
     "origin_slug": "toronto-flights",
     "route_slug": "toronto-to-vancouver-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "last_seen": "2026-01-27T06:34:16.401Z"
   },
   {
-    "id": "yyz-las-281-996a3790",
+    "id": "yyz-fll-276-956601c8",
     "origin": "Toronto",
     "origin_code": "YYZ",
-    "destination": "LAS",
-    "destination_code": "LAS",
-    "price": 281,
+    "destination": "FLL",
+    "destination_code": "FLL",
+    "price": 276,
     "currency": "CAD",
-    "airline": "UA",
-    "depart_date": "2026-03-06",
-    "return_date": "2026-03-10",
-    "travel_dates": "2026-03-06 to 2026-03-10",
-    "transfers": 1,
-    "source_url": "https://www.aviasales.com/search/YYZ0603LAS10031?t=UA17728308001772871180000853YYZORDLAS17731854001773211200000250LASYYZ_9aec05f6d14941e7348ad53d3fb7b45d_15761&search_date=20012026&expected_price_uuid=019bd93f-7733-8010-20e6-790d8a62fc09&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=281",
-    "link": "https://www.aviasales.com/search/YYZ0603LAS10031?t=UA17728308001772871180000853YYZORDLAS17731854001773211200000250LASYYZ_9aec05f6d14941e7348ad53d3fb7b45d_15761&search_date=20012026&expected_price_uuid=019bd93f-7733-8010-20e6-790d8a62fc09&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=281&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-LAS",
-    "origin_slug": "toronto-flights",
-    "route_slug": "toronto-to-las-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
-  },
-  {
-    "id": "yyz-nyc-282-b3bb199a",
-    "origin": "Toronto",
-    "origin_code": "YYZ",
-    "destination": "NYC",
-    "destination_code": "NYC",
-    "price": 282,
-    "currency": "CAD",
-    "airline": "AC",
-    "depart_date": "2026-04-24",
-    "return_date": "2026-05-03",
-    "travel_dates": "2026-04-24 to 2026-05-03",
+    "airline": "F8",
+    "depart_date": "2026-02-22",
+    "return_date": "2026-02-27",
+    "travel_dates": "2026-02-22 to 2026-02-27",
     "transfers": 0,
-    "source_url": "https://www.aviasales.com/search/YYZ2404NYC03051?t=AC17770479001777053660000096YYZLGA17778267001777832700000100LGAYYZ_6e4ee4b5faa4bda745724f446164c8d3_15913&search_date=20012026&expected_price_uuid=019bdd3a-fae6-8010-af80-ac1d2c500f76&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=282",
-    "link": "https://www.aviasales.com/search/YYZ2404NYC03051?t=AC17770479001777053660000096YYZLGA17778267001777832700000100LGAYYZ_6e4ee4b5faa4bda745724f446164c8d3_15913&search_date=20012026&expected_price_uuid=019bdd3a-fae6-8010-af80-ac1d2c500f76&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=282&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-NYC",
+    "source_url": "https://www.aviasales.com/search/YYZ2202FLL27021?t=F817717547001771767000000205YYZFLL17721801001772191680000193FLLYYZ_1e3b8633d4cfef7a045888978347c9b1_15328&search_date=26012026&expected_price_uuid=019bfa77-fa24-8010-ac08-488a7ec22996&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=276",
+    "link": "https://www.aviasales.com/search/YYZ2202FLL27021?t=F817717547001771767000000205YYZFLL17721801001772191680000193FLLYYZ_1e3b8633d4cfef7a045888978347c9b1_15328&search_date=26012026&expected_price_uuid=019bfa77-fa24-8010-ac08-488a7ec22996&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=276&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-FLL",
     "origin_slug": "toronto-flights",
-    "route_slug": "toronto-to-nyc-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
-  },
-  {
-    "id": "yyz-tpa-283-c7408b3b",
-    "origin": "Toronto",
-    "origin_code": "YYZ",
-    "destination": "TPA",
-    "destination_code": "TPA",
-    "price": 283,
-    "currency": "CAD",
-    "airline": "AC",
-    "depart_date": "2026-04-27",
-    "return_date": "2026-04-29",
-    "travel_dates": "2026-04-27 to 2026-04-29",
-    "transfers": 0,
-    "source_url": "https://www.aviasales.com/search/YYZ2704TPA29041?t=UA17773197001777330200000175YYZTPA17774469001777491420000742TPAORDYYZ_1c107a97d05424d70aa5622a3329eeba_15473&search_date=25012026&expected_price_uuid=019bf77c-0ef1-8010-ad0f-8559746289d6&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=283",
-    "link": "https://www.aviasales.com/search/YYZ2704TPA29041?t=UA17773197001777330200000175YYZTPA17774469001777491420000742TPAORDYYZ_1c107a97d05424d70aa5622a3329eeba_15473&search_date=25012026&expected_price_uuid=019bf77c-0ef1-8010-ad0f-8559746289d6&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=283&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-TPA",
-    "origin_slug": "toronto-flights",
-    "route_slug": "toronto-to-tpa-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
-  },
-  {
-    "id": "yyz-yvr-286-9bd9e0b9",
-    "origin": "Toronto",
-    "origin_code": "YYZ",
-    "destination": "Vancouver",
-    "destination_code": "YVR",
-    "price": 286,
-    "currency": "CAD",
-    "airline": "WS",
-    "depart_date": "2026-05-13",
-    "return_date": "2026-05-15",
-    "travel_dates": "2026-05-13 to 2026-05-15",
-    "transfers": 1,
-    "source_url": "https://www.aviasales.com/search/YYZ1305YVR15051?t=WS17786547001778668800000415YYZYEGYVR17788644001778910600000590YVRYLWYEGYYZ_fb433237be4b8b3ce631c563fd0a4086_15741&search_date=22012026&expected_price_uuid=019be632-4e33-8020-6b6d-32e4c486e5f8&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=286",
-    "link": "https://www.aviasales.com/search/YYZ1305YVR15051?t=WS17786547001778668800000415YYZYEGYVR17788644001778910600000590YVRYLWYEGYYZ_fb433237be4b8b3ce631c563fd0a4086_15741&search_date=22012026&expected_price_uuid=019be632-4e33-8020-6b6d-32e4c486e5f8&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=286&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YVR",
-    "origin_slug": "toronto-flights",
-    "route_slug": "toronto-to-vancouver-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
-  },
-  {
-    "id": "yyz-yxe-286-4d4c2b00",
-    "origin": "Toronto",
-    "origin_code": "YYZ",
-    "destination": "YXE",
-    "destination_code": "YXE",
-    "price": 286,
-    "currency": "CAD",
-    "airline": "WS",
-    "depart_date": "2026-02-18",
-    "return_date": "2026-03-25",
-    "travel_dates": "2026-02-18 to 2026-03-25",
-    "transfers": 1,
-    "source_url": "https://www.aviasales.com/search/YYZ1802YXE25031?t=WS17714088001771430280000418YYZYYCYXE17744526001774481880000368YXEYEGYYZ_e208ff646621d3a791bc772ec45baf3a_16056&search_date=19012026&expected_price_uuid=019bd674-4333-8020-efc8-9a9355a4d550&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=286",
-    "link": "https://www.aviasales.com/search/YYZ1802YXE25031?t=WS17714088001771430280000418YYZYYCYXE17744526001774481880000368YXEYEGYYZ_e208ff646621d3a791bc772ec45baf3a_16056&search_date=19012026&expected_price_uuid=019bd674-4333-8020-efc8-9a9355a4d550&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=cad&expected_price=286&marker=605276&utm_source=bigflightdeals&utm_medium=affiliate&utm_campaign=deals&utm_content=YYZ-YXE",
-    "origin_slug": "toronto-flights",
-    "route_slug": "toronto-to-yxe-flights",
-    "last_seen": "2026-01-26T06:35:34.663Z"
+    "route_slug": "toronto-to-fll-flights",
+    "last_seen": "2026-01-27T06:34:16.401Z"
   }
 ]
